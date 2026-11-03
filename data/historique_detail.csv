@@ -1,14 +1,12 @@
 date,compagnie,navire,date_depart,port_depart,nuits,cabine,prix_croisiere,prix_vols,total
-2026-11-03,Royal Caribbean,Brilliance of the Seas,2027-09-18,Ravenne (Italie),7,Intérieure (prix d'appel « à partir de »),1536,0,1536
-2026-11-03,Royal Caribbean,Brilliance of the Seas,2027-09-04,Ravenne (Italie),7,Intérieure (prix d'appel « à partir de »),1538,0,1538
-2026-11-03,MSC Croisières,MSC Lirica,2027-09-25,Venise (Italie),7,Intérieure (prix d'appel « à partir de »),1549,0,1549
-2026-11-03,Royal Caribbean,Brilliance of the Seas,2027-10-09,Ravenne (Italie),7,Intérieure (prix d'appel « à partir de »),1565,0,1565
-2026-11-03,MSC Croisières,MSC Lirica,2027-09-18,Venise (Italie),7,Intérieure (prix d'appel « à partir de »),1652,0,1652
-2026-11-03,Royal Caribbean,Brilliance of the Seas,2027-09-25,Ravenne (Italie),7,Intérieure (prix d'appel « à partir de »),1661,0,1661
-2026-11-03,Royal Caribbean,Brilliance of the Seas,2027-10-16,Ravenne (Italie),7,Intérieure (prix d'appel « à partir de »),1673,0,1673
-2026-11-03,MSC Croisières,MSC Lirica,2027-09-11,Venise (Italie),7,Intérieure (prix d'appel « à partir de »),1693,0,1693
-2026-11-03,MSC Croisières,MSC Lirica,2027-09-04,Venise (Italie),7,Intérieure (prix d'appel « à partir de »),1753,0,1753
-2026-11-03,Celestyal Cruises,Celestyal Discovery,2027-09-06,Le Pirée (Athènes),4,Intérieure (prix d'appel « à partir de »),1253,382,1755
-2026-11-03,Royal Caribbean,Brilliance of the Seas,2027-10-23,Ravenne (Italie),7,Intérieure (prix d'appel « à partir de »),1837,0,1837
-2026-11-03,MSC Croisières,MSC Orchestra,2027-10-19,Le Pirée (Athènes),6,Intérieure (prix d'appel « à partir de »),1520,352,1992
-2026-11-03,Celestyal Cruises,Celestyal Journey,2027-09-04,Le Pirée (Athènes),7,Intérieure (prix d'appel « à partir de »),2239,408,2767
+2026-11-03,Royal Caribbean,Brilliance of the Seas,2027-09-18,Ravenne (Italie),7,Intérieure (prix « dès »),1344,0,1344
+2026-11-03,Royal Caribbean,Brilliance of the Seas,2027-10-09,Ravenne (Italie),7,Intérieure (prix « dès »),1438,0,1438
+2026-11-03,Royal Caribbean,Brilliance of the Seas,2027-09-25,Ravenne (Italie),7,Intérieure (prix « dès »),1470,0,1470
+2026-11-03,Royal Caribbean,Brilliance of the Seas,2027-10-16,Ravenne (Italie),7,Intérieure (prix « dès »),1478,0,1478
+2026-11-03,MSC Croisières,MSC Lirica,2027-09-25,Venise (Italie),7,Intérieure (prix d'appel),1548,0,1548
+2026-11-03,MSC Croisières,MSC Lirica,2027-09-18,Venise (Italie),7,Intérieure (prix d'appel),1652,0,1652
+2026-11-03,Celestyal Cruises,Celestyal Discovery,2027-09-06,Le Pirée (Athènes),4,Intérieure (prix d'appel),1254,382,1756
+2026-11-03,MSC Croisières,MSC Orchestra,2027-10-19,Le Pirée (Athènes),6,Intérieure (prix « dès »),1360,352,1832
+2026-11-03,Celestyal Cruises,Celestyal Journey,2027-10-16,Le Pirée (Athènes),6,Intérieure (prix « dès »),1498,384,2002
+2026-11-03,Royal Caribbean,Rhapsody of the Seas,2027-10-01,Le Pirée (Athènes),7,Intérieure (prix « dès »),1636,436,2192
+2026-11-03,MSC Croisières,MSC Orchestra,2027-10-05,Le Pirée (Athènes),7,Intérieure (prix « dès »),1730,414,2264

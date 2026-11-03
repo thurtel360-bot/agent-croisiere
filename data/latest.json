@@ -1,63 +1,106 @@
 {
-  "date_veille": "2026-11-03T10:43:56+00:00",
-  "resume": "Meilleure offre : Royal Caribbean – Brilliance of the Seas au départ de Ravenne le 18/09/2027, 7 nuits, 1536 € pour 2 sans vol. 13 croisières îles grecques sous 3 000 € pour sept.-oct. 2027 ; prix stables depuis le relevé du matin, seul le vol de la Celestyal Journey a baissé.",
+  "date_veille": "2026-11-03T11:09:08+00:00",
+  "resume": "Meilleure offre : Royal Caribbean – Brilliance of the Seas au départ de Ravenne le 18/09/2027, 7 nuits, 1344 € pour 2 sans vol (prix croisieres.fr). Les liens « Voir l'offre » mènent maintenant à la page française de chaque croisière sur croisieres.fr.",
   "alertes": [],
   "notes": [
-    "Run de test manuel (2e relevé du 03/11/2026) : comparaison avec le relevé du matin ; prix croisières revérifiés, identiques.",
-    "Liens « Voir l'offre » : site officiel de la compagnie en français (choisir la date sur place) ; les sites français ne publient pas encore ces départs sept.-oct. 2027 avec un prix daté. Le prix vient de Taoticket (en anglais), lien « Source du prix ». Vols : eDreams France.",
-    "Prix « à partir de » par personne taxes incluses lus sur Taoticket (affichés en USD) ; convertis à 0,89 €/$ (taux BdF du jour non trouvé). Le prix final en € chez un vendeur français peut différer.",
-    "Cabine supposée intérieure (prix d'appel) ; pourboires et boissons non inclus sauf mention contraire, à vérifier.",
-    "Vols : eDreams (aller-retour 2 adultes depuis Paris). Expedia testé (PAR-ATH 05-10/09 : 490 $ ≈ 436 € pour 2 en direct Air France), plus cher que eDreams.",
-    "Comparateurs français (Croisierenet, Promovacances, Abcroisiere, Voyage Privé…) : aucun résultat 2027 exploitable ; source principale Taoticket. Page détail Celestyal non lisible (robots).",
-    "Exclues : MSC Sinfonia 19/10 Athènes→Bari (446 $/pers, sans lien, peut-être complète), Costa Pacifica (escales Istanbul/Turquie, prix en AUD), MSC Splendida (1 seule île grecque).",
+    "Source principale : croisieres.fr (en français, prix en euros par personne). Le lien « Voir l'offre » ouvre la fiche de la croisière ; si plusieurs dates sont proposées, choisir la bonne date dans le calendrier « Autres départs ».",
+    "Les prix croisieres.fr sont souvent plus bas que ceux relevés ce matin sur Taoticket : la page ne dit pas si les taxes portuaires sont incluses, à vérifier avec « Calculez votre devis ». Pas d'alerte de baisse pour ce changement de source.",
+    "MSC Lirica (Venise) et Celestyal Discovery (6 sept.) ne figurent pas encore sur croisieres.fr : gardées avec un lien Taoticket (site en anglais).",
+    "Vols : eDreams France (edreams.fr), aller-retour 2 adultes depuis Paris-Orly ; nuit d'hôtel la veille estimée 120 €.",
     "Rien n'a été réservé. Les prix sont relevés au moment de la recherche et peuvent changer."
   ],
   "offres": [
     {
       "compagnie": "Royal Caribbean",
       "navire": "Brilliance of the Seas",
-      "itineraire": "Ravenne – Santorin – Mykonos – Athènes (Le Pirée) – Split – Ravenne",
+      "itineraire": "Ravenne – Santorin – Mykonos – Le Pirée (Athènes) – Split – Ravenne",
       "port_depart": "Ravenne (Italie)",
       "date_depart": "2027-09-18",
       "nuits": 7,
-      "cabine": "Intérieure (prix d'appel « à partir de »)",
-      "prix_croisiere_2pers": 1536,
+      "cabine": "Intérieure (prix « dès »)",
+      "prix_croisiere_2pers": 1344,
       "vol_inclus": false,
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
-      "prix_total_2pers": 1536,
-      "tendance": "=",
+      "prix_total_2pers": 1344,
+      "tendance": "changement de source (avant 1536 €)",
       "inclus": [
         "Pension complète",
-        "Taxes portuaires"
+        "Activités à bord"
       ],
-      "remarque": "Prix lu : 863 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$.",
-      "lien": "https://www.royalcaribbean.com/fra/fr/greece-greek-isles-cruises",
+      "remarque": "Prix lu sur croisieres.fr : 672 €/pers. Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-11419645-royal-caribbean-brilliance-of-the-seas-iles-grecques/ODQ3NTMxNTIsY2FiXzE=",
       "lien_vol": "",
-      "lien_source": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-a88cd06377edcf74aa7e9549475f7914/BR07M88620270918"
+      "lien_source": ""
     },
     {
       "compagnie": "Royal Caribbean",
       "navire": "Brilliance of the Seas",
-      "itineraire": "Ravenne – Santorin – Mykonos – Athènes (Le Pirée) – Split – Ravenne",
+      "itineraire": "Ravenne – Santorin – Le Pirée (Athènes) – Mykonos – Split – Ravenne",
       "port_depart": "Ravenne (Italie)",
-      "date_depart": "2027-09-04",
+      "date_depart": "2027-10-09",
       "nuits": 7,
-      "cabine": "Intérieure (prix d'appel « à partir de »)",
-      "prix_croisiere_2pers": 1538,
+      "cabine": "Intérieure (prix « dès »)",
+      "prix_croisiere_2pers": 1438,
       "vol_inclus": false,
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
-      "prix_total_2pers": 1538,
-      "tendance": "=",
+      "prix_total_2pers": 1438,
+      "tendance": "changement de source (avant 1565 €)",
       "inclus": [
         "Pension complète",
-        "Taxes portuaires"
+        "Activités à bord"
       ],
-      "remarque": "Prix lu : 864 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$.",
-      "lien": "https://www.royalcaribbean.com/fra/fr/greece-greek-isles-cruises",
+      "remarque": "Prix lu sur croisieres.fr : 719 €/pers. Sur la page, choisir le départ du 9 oct. dans le calendrier. Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-11478199-royal-caribbean-brilliance-of-the-seas-iles-grecques/ODQ3NTMyMjksY2FiXzE=",
       "lien_vol": "",
-      "lien_source": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-a88cd06377edcf74aa7e9549475f7914/BR07M88620270904"
+      "lien_source": ""
+    },
+    {
+      "compagnie": "Royal Caribbean",
+      "navire": "Brilliance of the Seas",
+      "itineraire": "Ravenne – Santorin – Mykonos – Le Pirée (Athènes) – Split – Ravenne",
+      "port_depart": "Ravenne (Italie)",
+      "date_depart": "2027-09-25",
+      "nuits": 7,
+      "cabine": "Intérieure (prix « dès »)",
+      "prix_croisiere_2pers": 1470,
+      "vol_inclus": false,
+      "prix_vols_2pers": 0,
+      "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
+      "prix_total_2pers": 1470,
+      "tendance": "changement de source (avant 1661 €)",
+      "inclus": [
+        "Pension complète",
+        "Activités à bord"
+      ],
+      "remarque": "Prix lu sur croisieres.fr : 735 €/pers. Sur la page, choisir le départ du 25 sept. dans le calendrier. Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-11419645-royal-caribbean-brilliance-of-the-seas-iles-grecques/ODQ3NTMxNTIsY2FiXzE=",
+      "lien_vol": "",
+      "lien_source": ""
+    },
+    {
+      "compagnie": "Royal Caribbean",
+      "navire": "Brilliance of the Seas",
+      "itineraire": "Ravenne – Santorin – Mykonos – Le Pirée (Athènes) – Split – Ravenne",
+      "port_depart": "Ravenne (Italie)",
+      "date_depart": "2027-10-16",
+      "nuits": 7,
+      "cabine": "Intérieure (prix « dès »)",
+      "prix_croisiere_2pers": 1478,
+      "vol_inclus": false,
+      "prix_vols_2pers": 0,
+      "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
+      "prix_total_2pers": 1478,
+      "tendance": "changement de source (avant 1673 €)",
+      "inclus": [
+        "Pension complète",
+        "Activités à bord"
+      ],
+      "remarque": "Prix lu sur croisieres.fr : 739 €/pers. Sur la page, choisir le départ du 16 oct. dans le calendrier. Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-11419645-royal-caribbean-brilliance-of-the-seas-iles-grecques/ODQ3NTMxNTIsY2FiXzE=",
+      "lien_vol": "",
+      "lien_source": ""
     },
     {
       "compagnie": "MSC Croisières",
@@ -66,44 +109,20 @@
       "port_depart": "Venise (Italie)",
       "date_depart": "2027-09-25",
       "nuits": 7,
-      "cabine": "Intérieure (prix d'appel « à partir de »)",
-      "prix_croisiere_2pers": 1549,
+      "cabine": "Intérieure (prix d'appel)",
+      "prix_croisiere_2pers": 1548,
       "vol_inclus": false,
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
-      "prix_total_2pers": 1549,
+      "prix_total_2pers": 1548,
       "tendance": "=",
       "inclus": [
-        "Pension complète",
-        "Taxes portuaires"
+        "Pension complète"
       ],
-      "remarque": "Prix lu : 870 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$. Itinéraire mixte : 2 îles grecques (Mykonos avec escale longue, Syros) + Kotor et Ancône.",
-      "lien": "https://www.msccroisieres.fr/destinations/mediterranee-orientale",
+      "remarque": "Itinéraire mixte (2 îles grecques). Pas encore proposée sur les sites français consultés : le lien mène au site Taoticket (en anglais). Prix converti de 0,89 €/$, taxes incluses.",
+      "lien": "https://www.taoticket.com/en_US/co/msc-cruises/croc/27/UXO6/LX20270925VCEVCE",
       "lien_vol": "",
-      "lien_source": "https://www.taoticket.com/en_US/co/msc-cruises/croc/27/UXO6/LX20270925VCEVCE"
-    },
-    {
-      "compagnie": "Royal Caribbean",
-      "navire": "Brilliance of the Seas",
-      "itineraire": "Ravenne – Santorin – Athènes (Le Pirée) – Mykonos – Split – Ravenne",
-      "port_depart": "Ravenne (Italie)",
-      "date_depart": "2027-10-09",
-      "nuits": 7,
-      "cabine": "Intérieure (prix d'appel « à partir de »)",
-      "prix_croisiere_2pers": 1565,
-      "vol_inclus": false,
-      "prix_vols_2pers": 0,
-      "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
-      "prix_total_2pers": 1565,
-      "tendance": "=",
-      "inclus": [
-        "Pension complète",
-        "Taxes portuaires"
-      ],
-      "remarque": "Prix lu : 879 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$.",
-      "lien": "https://www.royalcaribbean.com/fra/fr/greece-greek-isles-cruises",
-      "lien_vol": "",
-      "lien_source": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-dc22efcafb574d22e96e15e9e40ca230/BR07M88820271009"
+      "lien_source": ""
     },
     {
       "compagnie": "MSC Croisières",
@@ -112,7 +131,7 @@
       "port_depart": "Venise (Italie)",
       "date_depart": "2027-09-18",
       "nuits": 7,
-      "cabine": "Intérieure (prix d'appel « à partir de »)",
+      "cabine": "Intérieure (prix d'appel)",
       "prix_croisiere_2pers": 1652,
       "vol_inclus": false,
       "prix_vols_2pers": 0,
@@ -120,105 +139,12 @@
       "prix_total_2pers": 1652,
       "tendance": "=",
       "inclus": [
-        "Pension complète",
-        "Taxes portuaires"
+        "Pension complète"
       ],
-      "remarque": "Prix lu : 928 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$. Itinéraire mixte : 2 îles grecques + Kotor et Ancône.",
-      "lien": "https://www.msccroisieres.fr/destinations/mediterranee-orientale",
+      "remarque": "Itinéraire mixte (2 îles grecques). Pas encore proposée sur les sites français consultés : le lien mène au site Taoticket (en anglais). Prix converti de 0,89 €/$, taxes incluses.",
+      "lien": "https://www.taoticket.com/en_US/co/msc-cruises/croc/27/UXO6/LX20270918VCEVCE",
       "lien_vol": "",
-      "lien_source": "https://www.taoticket.com/en_US/co/msc-cruises/croc/27/UXO6/LX20270918VCEVCE"
-    },
-    {
-      "compagnie": "Royal Caribbean",
-      "navire": "Brilliance of the Seas",
-      "itineraire": "Ravenne – Santorin – Mykonos – Athènes (Le Pirée) – Split – Ravenne",
-      "port_depart": "Ravenne (Italie)",
-      "date_depart": "2027-09-25",
-      "nuits": 7,
-      "cabine": "Intérieure (prix d'appel « à partir de »)",
-      "prix_croisiere_2pers": 1661,
-      "vol_inclus": false,
-      "prix_vols_2pers": 0,
-      "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
-      "prix_total_2pers": 1661,
-      "tendance": "=",
-      "inclus": [
-        "Pension complète",
-        "Taxes portuaires"
-      ],
-      "remarque": "Prix lu : 933 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$.",
-      "lien": "https://www.royalcaribbean.com/fra/fr/greece-greek-isles-cruises",
-      "lien_vol": "",
-      "lien_source": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-a88cd06377edcf74aa7e9549475f7914/BR07M88620270925"
-    },
-    {
-      "compagnie": "Royal Caribbean",
-      "navire": "Brilliance of the Seas",
-      "itineraire": "Ravenne – Santorin – Mykonos – Athènes (Le Pirée) – Split – Ravenne",
-      "port_depart": "Ravenne (Italie)",
-      "date_depart": "2027-10-16",
-      "nuits": 7,
-      "cabine": "Intérieure (prix d'appel « à partir de »)",
-      "prix_croisiere_2pers": 1673,
-      "vol_inclus": false,
-      "prix_vols_2pers": 0,
-      "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
-      "prix_total_2pers": 1673,
-      "tendance": "=",
-      "inclus": [
-        "Pension complète",
-        "Taxes portuaires"
-      ],
-      "remarque": "Prix lu : 940 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$.",
-      "lien": "https://www.royalcaribbean.com/fra/fr/greece-greek-isles-cruises",
-      "lien_vol": "",
-      "lien_source": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-a88cd06377edcf74aa7e9549475f7914/BR07M88620271016"
-    },
-    {
-      "compagnie": "MSC Croisières",
-      "navire": "MSC Lirica",
-      "itineraire": "Venise – Kotor – Mykonos (2 jours) – Syros – Ancône – Venise",
-      "port_depart": "Venise (Italie)",
-      "date_depart": "2027-09-11",
-      "nuits": 7,
-      "cabine": "Intérieure (prix d'appel « à partir de »)",
-      "prix_croisiere_2pers": 1693,
-      "vol_inclus": false,
-      "prix_vols_2pers": 0,
-      "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
-      "prix_total_2pers": 1693,
-      "tendance": "=",
-      "inclus": [
-        "Pension complète",
-        "Taxes portuaires"
-      ],
-      "remarque": "Prix lu : 951 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$. Itinéraire mixte : 2 îles grecques + Kotor et Ancône.",
-      "lien": "https://www.msccroisieres.fr/destinations/mediterranee-orientale",
-      "lien_vol": "",
-      "lien_source": "https://www.taoticket.com/en_US/co/msc-cruises/croc/27/UXO6/LX20270911VCEVCE"
-    },
-    {
-      "compagnie": "MSC Croisières",
-      "navire": "MSC Lirica",
-      "itineraire": "Venise – Kotor – Mykonos (2 jours) – Syros – Ancône – Venise",
-      "port_depart": "Venise (Italie)",
-      "date_depart": "2027-09-04",
-      "nuits": 7,
-      "cabine": "Intérieure (prix d'appel « à partir de »)",
-      "prix_croisiere_2pers": 1753,
-      "vol_inclus": false,
-      "prix_vols_2pers": 0,
-      "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
-      "prix_total_2pers": 1753,
-      "tendance": "=",
-      "inclus": [
-        "Pension complète",
-        "Taxes portuaires"
-      ],
-      "remarque": "Prix lu : 985 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$. Itinéraire mixte : 2 îles grecques + Kotor et Ancône.",
-      "lien": "https://www.msccroisieres.fr/destinations/mediterranee-orientale",
-      "lien_vol": "",
-      "lien_source": "https://www.taoticket.com/en_US/co/msc-cruises/croc/27/UXO6/LX20270904VCEVCE"
+      "lien_source": ""
     },
     {
       "compagnie": "Celestyal Cruises",
@@ -227,44 +153,20 @@
       "port_depart": "Le Pirée (Athènes)",
       "date_depart": "2027-09-06",
       "nuits": 4,
-      "cabine": "Intérieure (prix d'appel « à partir de »)",
-      "prix_croisiere_2pers": 1253,
+      "cabine": "Intérieure (prix d'appel)",
+      "prix_croisiere_2pers": 1254,
       "vol_inclus": true,
       "prix_vols_2pers": 382,
       "vol_detail": "Transavia ORY 05/09 19:30 → ATH 23:45 ; retour easyJet ATH 10/09 11:15 → ORY 13:45, direct (eDreams, 382 € pour 2)",
-      "prix_total_2pers": 1755,
+      "prix_total_2pers": 1756,
       "tendance": "=",
       "inclus": [
-        "Pension complète",
-        "Taxes portuaires"
+        "Pension complète"
       ],
-      "remarque": "Prix lu : 704 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$. Nuit d'hôtel la veille à Athènes estimée 120 € (incluse dans le total).",
-      "lien": "https://celestyal.com/fr/",
+      "remarque": "Nuit d'hôtel la veille à Athènes estimée 120 € (incluse). Pas encore proposée sur les sites français consultés : le lien mène au site Taoticket (en anglais). Prix converti de 0,89 €/$, taxes incluses.",
+      "lien": "https://www.taoticket.com/en_US/co/celestyal-cruises/croc/741/discovery-atene-4n/MANCEL7412027090604",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=174833845151&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/ret=2027-09-10;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=ORY;to.iata=ATH;dep=2027-09-05;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,TO3650&segmentKey1=0,U24880",
-      "lien_source": "https://www.taoticket.com/en_US/co/celestyal-cruises/croc/741/discovery-atene-4n/MANCEL7412027090604"
-    },
-    {
-      "compagnie": "Royal Caribbean",
-      "navire": "Brilliance of the Seas",
-      "itineraire": "Ravenne – Kotor – Athènes (Le Pirée) – Santorin – Katakolon – Ravenne",
-      "port_depart": "Ravenne (Italie)",
-      "date_depart": "2027-10-23",
-      "nuits": 7,
-      "cabine": "Intérieure (prix d'appel « à partir de »)",
-      "prix_croisiere_2pers": 1837,
-      "vol_inclus": false,
-      "prix_vols_2pers": 0,
-      "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
-      "prix_total_2pers": 1837,
-      "tendance": "=",
-      "inclus": [
-        "Pension complète",
-        "Taxes portuaires"
-      ],
-      "remarque": "Prix lu : 1032 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$.",
-      "lien": "https://www.royalcaribbean.com/fra/fr/greece-greek-isles-cruises",
-      "lien_vol": "",
-      "lien_source": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-39a53515f0ff73e10de7c0dad230385b/BR07M89120271023"
+      "lien_source": ""
     },
     {
       "compagnie": "MSC Croisières",
@@ -273,44 +175,92 @@
       "port_depart": "Le Pirée (Athènes)",
       "date_depart": "2027-10-19",
       "nuits": 6,
-      "cabine": "Intérieure (prix d'appel « à partir de »)",
-      "prix_croisiere_2pers": 1520,
+      "cabine": "Intérieure (prix « dès »)",
+      "prix_croisiere_2pers": 1360,
       "vol_inclus": true,
       "prix_vols_2pers": 352,
       "vol_detail": "Transavia ORY 18/10 13:05 → ATH 17:20 ; retour ATH 25/10 12:05 → ORY 14:35, direct (eDreams, 352 € pour 2)",
-      "prix_total_2pers": 1992,
-      "tendance": "=",
+      "prix_total_2pers": 1832,
+      "tendance": "changement de source (avant 1992 €)",
       "inclus": [
         "Pension complète",
-        "Taxes portuaires"
+        "Internet à bord"
       ],
-      "remarque": "Prix lu : 854 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$. Nuit d'hôtel la veille à Athènes estimée 120 € (incluse).",
-      "lien": "https://www.msccroisieres.fr/destinations/mediterranee-orientale",
+      "remarque": "Prix lu sur croisieres.fr : 680 €/pers. Nuit d'hôtel la veille à Athènes estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-11965850-msc-msc-orchestra-iles-grecques/ODYzMjYyNDksY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=174838237090&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/ret=2027-10-25;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=ORY;to.iata=ATH;dep=2027-10-18;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,TO3524&segmentKey1=0,TO3521",
-      "lien_source": "https://www.taoticket.com/en_US/co/msc-cruises/croc/32/UZ4L/OR20271019PIRPIR"
+      "lien_source": ""
     },
     {
       "compagnie": "Celestyal Cruises",
       "navire": "Celestyal Journey",
-      "itineraire": "Le Pirée – Kuşadası – Rhodes – Crète – Santorin – Mykonos – Milos – Le Pirée",
+      "itineraire": "Le Pirée – Céphalonie – Dubrovnik – Kotor – Corfou – Katakolon – Lavrion (Athènes)",
       "port_depart": "Le Pirée (Athènes)",
-      "date_depart": "2027-09-04",
-      "nuits": 7,
-      "cabine": "Intérieure (prix d'appel « à partir de »)",
-      "prix_croisiere_2pers": 2239,
+      "date_depart": "2027-10-16",
+      "nuits": 6,
+      "cabine": "Intérieure (prix « dès »)",
+      "prix_croisiere_2pers": 1498,
       "vol_inclus": true,
-      "prix_vols_2pers": 408,
-      "vol_detail": "Transavia ORY 03/09 13:45 → ATH 18:00 ; retour easyJet ATH 11/09 20:05 → ORY 22:35, direct (eDreams, 408 € pour 2)",
-      "prix_total_2pers": 2767,
-      "tendance": "▼ -76 € (-2.7 %)",
+      "prix_vols_2pers": 384,
+      "vol_detail": "Transavia ORY 15/10 12:40 → ATH 16:55 ; retour ATH 22/10 18:45 → ORY 21:15, direct (eDreams, 384 € pour 2)",
+      "prix_total_2pers": 2002,
+      "tendance": "NOUVEAU",
       "inclus": [
         "Pension complète",
-        "Taxes portuaires"
+        "Boissons aux repas",
+        "Pourboires",
+        "Wifi"
       ],
-      "remarque": "Prix lu : 1258 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$. Nuit d'hôtel la veille à Athènes estimée 120 € (incluse). Le plus « 100 % îles grecques ».",
-      "lien": "https://celestyal.com/fr/",
-      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=174832553984&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/ret=2027-09-11;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=ORY;to.iata=ATH;dep=2027-09-03;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,TO3526&segmentKey1=0,U24880",
-      "lien_source": "https://www.taoticket.com/en_US/co/celestyal-cruises/croc/740/journey-idyllic-greece/MANCEL7402027090407"
+      "remarque": "Prix lu sur croisieres.fr : 749 €/pers. Itinéraire mixte (3 escales grecques + Dubrovnik, Kotor). Nuit d'hôtel la veille à Athènes estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-12725240-celestyal-cruises-celestyal-journey-iles-grecques/ODg1MDEzNzQsY2FiXzE=",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=174831771350&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/ret=2027-10-22;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=ORY;to.iata=ATH;dep=2027-10-15;collectionmethod=16&fareItineraryKey=2&segmentKey0=0,TO3524&segmentKey1=0,TO3527",
+      "lien_source": ""
+    },
+    {
+      "compagnie": "Royal Caribbean",
+      "navire": "Rhapsody of the Seas",
+      "itineraire": "Le Pirée – Santorin – Mykonos – Éphèse – Bodrum – Rhodes – Le Pirée",
+      "port_depart": "Le Pirée (Athènes)",
+      "date_depart": "2027-10-01",
+      "nuits": 7,
+      "cabine": "Intérieure (prix « dès »)",
+      "prix_croisiere_2pers": 1636,
+      "vol_inclus": true,
+      "prix_vols_2pers": 436,
+      "vol_detail": "Transavia ORY 30/09 06:30 → ATH 10:45 ; retour ATH 08/10 17:45 → ORY 20:15, direct (eDreams, 436 € pour 2)",
+      "prix_total_2pers": 2192,
+      "tendance": "NOUVEAU",
+      "inclus": [
+        "Pension complète",
+        "Activités à bord"
+      ],
+      "remarque": "Prix lu sur croisieres.fr : 818 €/pers. Sur la page, choisir le départ du 1er oct. dans le calendrier. Nuit d'hôtel la veille à Athènes estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-11478528-royal-caribbean-rhapsody-of-the-seas-iles-grecques/ODQ3NTM3OTYsY2FiXzE=",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=174837241309&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/ret=2027-10-08;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=ORY;to.iata=ATH;dep=2027-09-30;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,TO3520&segmentKey1=0,TO3525",
+      "lien_source": ""
+    },
+    {
+      "compagnie": "MSC Croisières",
+      "navire": "MSC Orchestra",
+      "itineraire": "Le Pirée – Katakolon – Céphalonie – Corfou – Bari – Mykonos – Le Pirée",
+      "port_depart": "Le Pirée (Athènes)",
+      "date_depart": "2027-10-05",
+      "nuits": 7,
+      "cabine": "Intérieure (prix « dès »)",
+      "prix_croisiere_2pers": 1730,
+      "vol_inclus": true,
+      "prix_vols_2pers": 414,
+      "vol_detail": "Transavia ORY 04/10 13:05 → ATH 17:20 ; retour ATH 12/10 11:30 → ORY 14:00, direct (eDreams, 414 € pour 2)",
+      "prix_total_2pers": 2264,
+      "tendance": "NOUVEAU",
+      "inclus": [
+        "Pension complète",
+        "Internet à bord"
+      ],
+      "remarque": "Prix lu sur croisieres.fr : 865 €/pers. Sur la page, choisir le départ du 5 oct. dans le calendrier. Nuit d'hôtel la veille à Athènes estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-11986292-msc-msc-orchestra-iles-grecques/ODYzOTMxMzAsY2FiXzE=",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=174840049618&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/ret=2027-10-12;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=ORY;to.iata=ATH;dep=2027-10-04;collectionmethod=16&fareItineraryKey=3&segmentKey0=0,TO3524&segmentKey1=0,TO3521",
+      "lien_source": ""
     }
   ]
 }
