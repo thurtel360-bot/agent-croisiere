@@ -4,6 +4,7 @@
   "alertes": [],
   "notes": [
     "Run de test manuel (2e relevé du 03/11/2026) : comparaison avec le relevé du matin ; prix croisières revérifiés, identiques.",
+    "Liens « Voir l'offre » : site officiel de la compagnie en français (choisir la date sur place) ; les sites français ne publient pas encore ces départs sept.-oct. 2027 avec un prix daté. Le prix vient de Taoticket (en anglais), lien « Source du prix ». Vols : eDreams France.",
     "Prix « à partir de » par personne taxes incluses lus sur Taoticket (affichés en USD) ; convertis à 0,89 €/$ (taux BdF du jour non trouvé). Le prix final en € chez un vendeur français peut différer.",
     "Cabine supposée intérieure (prix d'appel) ; pourboires et boissons non inclus sauf mention contraire, à vérifier.",
     "Vols : eDreams (aller-retour 2 adultes depuis Paris). Expedia testé (PAR-ATH 05-10/09 : 490 $ ≈ 436 € pour 2 en direct Air France), plus cher que eDreams.",
@@ -30,9 +31,10 @@
         "Pension complète",
         "Taxes portuaires"
       ],
-      "remarque": "Prix lu : 863 $/pers taxes incluses (Taoticket), converti à 0,89 €/$.",
-      "lien": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-a88cd06377edcf74aa7e9549475f7914/BR07M88620270918",
-      "lien_vol": ""
+      "remarque": "Prix lu : 863 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$.",
+      "lien": "https://www.royalcaribbean.com/fra/fr/greece-greek-isles-cruises",
+      "lien_vol": "",
+      "lien_source": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-a88cd06377edcf74aa7e9549475f7914/BR07M88620270918"
     },
     {
       "compagnie": "Royal Caribbean",
@@ -52,9 +54,10 @@
         "Pension complète",
         "Taxes portuaires"
       ],
-      "remarque": "Prix lu : 864 $/pers taxes incluses (Taoticket), converti à 0,89 €/$.",
-      "lien": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-a88cd06377edcf74aa7e9549475f7914/BR07M88620270904",
-      "lien_vol": ""
+      "remarque": "Prix lu : 864 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$.",
+      "lien": "https://www.royalcaribbean.com/fra/fr/greece-greek-isles-cruises",
+      "lien_vol": "",
+      "lien_source": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-a88cd06377edcf74aa7e9549475f7914/BR07M88620270904"
     },
     {
       "compagnie": "MSC Croisières",
@@ -74,9 +77,10 @@
         "Pension complète",
         "Taxes portuaires"
       ],
-      "remarque": "Prix lu : 870 $/pers taxes incluses (Taoticket), converti à 0,89 €/$. Itinéraire mixte : 2 îles grecques (Mykonos avec escale longue, Syros) + Kotor et Ancône.",
-      "lien": "https://www.taoticket.com/en_US/co/msc-cruises/croc/27/UXO6/LX20270925VCEVCE",
-      "lien_vol": ""
+      "remarque": "Prix lu : 870 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$. Itinéraire mixte : 2 îles grecques (Mykonos avec escale longue, Syros) + Kotor et Ancône.",
+      "lien": "https://www.msccroisieres.fr/destinations/mediterranee-orientale",
+      "lien_vol": "",
+      "lien_source": "https://www.taoticket.com/en_US/co/msc-cruises/croc/27/UXO6/LX20270925VCEVCE"
     },
     {
       "compagnie": "Royal Caribbean",
@@ -96,9 +100,10 @@
         "Pension complète",
         "Taxes portuaires"
       ],
-      "remarque": "Prix lu : 879 $/pers taxes incluses (Taoticket), converti à 0,89 €/$.",
-      "lien": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-dc22efcafb574d22e96e15e9e40ca230/BR07M88820271009",
-      "lien_vol": ""
+      "remarque": "Prix lu : 879 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$.",
+      "lien": "https://www.royalcaribbean.com/fra/fr/greece-greek-isles-cruises",
+      "lien_vol": "",
+      "lien_source": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-dc22efcafb574d22e96e15e9e40ca230/BR07M88820271009"
     },
     {
       "compagnie": "MSC Croisières",
@@ -118,9 +123,10 @@
         "Pension complète",
         "Taxes portuaires"
       ],
-      "remarque": "Prix lu : 928 $/pers taxes incluses (Taoticket), converti à 0,89 €/$. Itinéraire mixte : 2 îles grecques + Kotor et Ancône.",
-      "lien": "https://www.taoticket.com/en_US/co/msc-cruises/croc/27/UXO6/LX20270918VCEVCE",
-      "lien_vol": ""
+      "remarque": "Prix lu : 928 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$. Itinéraire mixte : 2 îles grecques + Kotor et Ancône.",
+      "lien": "https://www.msccroisieres.fr/destinations/mediterranee-orientale",
+      "lien_vol": "",
+      "lien_source": "https://www.taoticket.com/en_US/co/msc-cruises/croc/27/UXO6/LX20270918VCEVCE"
     },
     {
       "compagnie": "Royal Caribbean",
@@ -140,9 +146,10 @@
         "Pension complète",
         "Taxes portuaires"
       ],
-      "remarque": "Prix lu : 933 $/pers taxes incluses (Taoticket), converti à 0,89 €/$.",
-      "lien": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-a88cd06377edcf74aa7e9549475f7914/BR07M88620270925",
-      "lien_vol": ""
+      "remarque": "Prix lu : 933 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$.",
+      "lien": "https://www.royalcaribbean.com/fra/fr/greece-greek-isles-cruises",
+      "lien_vol": "",
+      "lien_source": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-a88cd06377edcf74aa7e9549475f7914/BR07M88620270925"
     },
     {
       "compagnie": "Royal Caribbean",
@@ -162,9 +169,10 @@
         "Pension complète",
         "Taxes portuaires"
       ],
-      "remarque": "Prix lu : 940 $/pers taxes incluses (Taoticket), converti à 0,89 €/$.",
-      "lien": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-a88cd06377edcf74aa7e9549475f7914/BR07M88620271016",
-      "lien_vol": ""
+      "remarque": "Prix lu : 940 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$.",
+      "lien": "https://www.royalcaribbean.com/fra/fr/greece-greek-isles-cruises",
+      "lien_vol": "",
+      "lien_source": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-a88cd06377edcf74aa7e9549475f7914/BR07M88620271016"
     },
     {
       "compagnie": "MSC Croisières",
@@ -184,9 +192,10 @@
         "Pension complète",
         "Taxes portuaires"
       ],
-      "remarque": "Prix lu : 951 $/pers taxes incluses (Taoticket), converti à 0,89 €/$. Itinéraire mixte : 2 îles grecques + Kotor et Ancône.",
-      "lien": "https://www.taoticket.com/en_US/co/msc-cruises/croc/27/UXO6/LX20270911VCEVCE",
-      "lien_vol": ""
+      "remarque": "Prix lu : 951 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$. Itinéraire mixte : 2 îles grecques + Kotor et Ancône.",
+      "lien": "https://www.msccroisieres.fr/destinations/mediterranee-orientale",
+      "lien_vol": "",
+      "lien_source": "https://www.taoticket.com/en_US/co/msc-cruises/croc/27/UXO6/LX20270911VCEVCE"
     },
     {
       "compagnie": "MSC Croisières",
@@ -206,9 +215,10 @@
         "Pension complète",
         "Taxes portuaires"
       ],
-      "remarque": "Prix lu : 985 $/pers taxes incluses (Taoticket), converti à 0,89 €/$. Itinéraire mixte : 2 îles grecques + Kotor et Ancône.",
-      "lien": "https://www.taoticket.com/en_US/co/msc-cruises/croc/27/UXO6/LX20270904VCEVCE",
-      "lien_vol": ""
+      "remarque": "Prix lu : 985 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$. Itinéraire mixte : 2 îles grecques + Kotor et Ancône.",
+      "lien": "https://www.msccroisieres.fr/destinations/mediterranee-orientale",
+      "lien_vol": "",
+      "lien_source": "https://www.taoticket.com/en_US/co/msc-cruises/croc/27/UXO6/LX20270904VCEVCE"
     },
     {
       "compagnie": "Celestyal Cruises",
@@ -228,9 +238,10 @@
         "Pension complète",
         "Taxes portuaires"
       ],
-      "remarque": "Prix lu : 704 $/pers taxes incluses (Taoticket), converti à 0,89 €/$. Nuit d'hôtel la veille à Athènes estimée 120 € (incluse dans le total).",
-      "lien": "https://www.taoticket.com/en_US/co/celestyal-cruises/croc/741/discovery-atene-4n/MANCEL7412027090604",
-      "lien_vol": "https://www.edreams.com/travel/?mktportal=Claude-App&searchId=174833845151&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/ret=2027-09-10;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=ORY;to.iata=ATH;dep=2027-09-05;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,TO3650&segmentKey1=0,U24880"
+      "remarque": "Prix lu : 704 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$. Nuit d'hôtel la veille à Athènes estimée 120 € (incluse dans le total).",
+      "lien": "https://celestyal.com/fr/",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=174833845151&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/ret=2027-09-10;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=ORY;to.iata=ATH;dep=2027-09-05;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,TO3650&segmentKey1=0,U24880",
+      "lien_source": "https://www.taoticket.com/en_US/co/celestyal-cruises/croc/741/discovery-atene-4n/MANCEL7412027090604"
     },
     {
       "compagnie": "Royal Caribbean",
@@ -250,9 +261,10 @@
         "Pension complète",
         "Taxes portuaires"
       ],
-      "remarque": "Prix lu : 1032 $/pers taxes incluses (Taoticket), converti à 0,89 €/$.",
-      "lien": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-39a53515f0ff73e10de7c0dad230385b/BR07M89120271023",
-      "lien_vol": ""
+      "remarque": "Prix lu : 1032 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$.",
+      "lien": "https://www.royalcaribbean.com/fra/fr/greece-greek-isles-cruises",
+      "lien_vol": "",
+      "lien_source": "https://www.taoticket.com/en_US/co/royal-caribbean/croc/81/itin-39a53515f0ff73e10de7c0dad230385b/BR07M89120271023"
     },
     {
       "compagnie": "MSC Croisières",
@@ -272,9 +284,10 @@
         "Pension complète",
         "Taxes portuaires"
       ],
-      "remarque": "Prix lu : 854 $/pers taxes incluses (Taoticket), converti à 0,89 €/$. Nuit d'hôtel la veille à Athènes estimée 120 € (incluse).",
-      "lien": "https://www.taoticket.com/en_US/co/msc-cruises/croc/32/UZ4L/OR20271019PIRPIR",
-      "lien_vol": "https://www.edreams.com/travel/?mktportal=Claude-App&searchId=174838237090&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/ret=2027-10-25;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=ORY;to.iata=ATH;dep=2027-10-18;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,TO3524&segmentKey1=0,TO3521"
+      "remarque": "Prix lu : 854 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$. Nuit d'hôtel la veille à Athènes estimée 120 € (incluse).",
+      "lien": "https://www.msccroisieres.fr/destinations/mediterranee-orientale",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=174838237090&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/ret=2027-10-25;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=ORY;to.iata=ATH;dep=2027-10-18;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,TO3524&segmentKey1=0,TO3521",
+      "lien_source": "https://www.taoticket.com/en_US/co/msc-cruises/croc/32/UZ4L/OR20271019PIRPIR"
     },
     {
       "compagnie": "Celestyal Cruises",
@@ -294,9 +307,10 @@
         "Pension complète",
         "Taxes portuaires"
       ],
-      "remarque": "Prix lu : 1258 $/pers taxes incluses (Taoticket), converti à 0,89 €/$. Nuit d'hôtel la veille à Athènes estimée 120 € (incluse). Le plus « 100 % îles grecques ».",
-      "lien": "https://www.taoticket.com/en_US/co/celestyal-cruises/croc/740/journey-idyllic-greece/MANCEL7402027090407",
-      "lien_vol": "https://www.edreams.com/travel/?mktportal=Claude-App&searchId=174832553984&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/ret=2027-09-11;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=ORY;to.iata=ATH;dep=2027-09-03;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,TO3526&segmentKey1=0,U24880"
+      "remarque": "Prix lu : 1258 $/pers taxes incluses (Taoticket, site en anglais : voir « Source du prix »), converti à 0,89 €/$. Nuit d'hôtel la veille à Athènes estimée 120 € (incluse). Le plus « 100 % îles grecques ».",
+      "lien": "https://celestyal.com/fr/",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=174832553984&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/ret=2027-09-11;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=ORY;to.iata=ATH;dep=2027-09-03;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,TO3526&segmentKey1=0,U24880",
+      "lien_source": "https://www.taoticket.com/en_US/co/celestyal-cruises/croc/740/journey-idyllic-greece/MANCEL7402027090407"
     }
   ]
 }

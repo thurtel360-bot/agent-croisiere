@@ -74,7 +74,7 @@ function render(){
     <div>Départ <b>${x.port_depart}</b> · ${x.date_depart?new Date(x.date_depart).toLocaleDateString('fr-FR'):''} · ${x.nuits} nuits · ${x.cabine||''}</div>
     <div>${x.prix_total_2pers<=3000?'<span class="tag good">Dans le budget</span>':'<span class="tag warn">Hors budget</span>'}${x.tendance?`<span class="tag">${x.tendance}</span>`:''}${(x.inclus||[]).map(t=>`<span class="tag">${t}</span>`).join('')}</div>
     ${x.remarque?`<div class="muted">${x.remarque}</div>`:''}
-    <div>${x.lien?`<a href="${x.lien}" target="_blank" rel="noopener">Voir l'offre</a>`:''}${x.lien_vol?` · <a href="${x.lien_vol}" target="_blank" rel="noopener">Voir le vol</a>`:''}</div>
+    <div>${x.lien?`<a href="${x.lien}" target="_blank" rel="noopener">Voir l'offre</a>`:''}${x.lien_vol?` · <a href="${x.lien_vol}" target="_blank" rel="noopener">Voir le vol</a>`:''}${x.lien_source?` · <a href="${x.lien_source}" target="_blank" rel="noopener" class="muted">Source du prix (site en anglais)</a>`:''}</div>
   </div>`).join('')||'<div class="empty">Aucune offre sous le budget dans cette veille.</div>';
 }
 async function chart(){
