@@ -2,90 +2,305 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Croisières îles grecques 2027</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Croisière îles grecques</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Croisière">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#0a4f8f">
+<link rel="apple-touch-icon" href="icon.png">
+<link rel="icon" href="icon.png">
+<link rel="manifest" href="manifest.json">
 <style>
-:root{--bg:#f6f8fb;--card:#fff;--ink:#14213d;--muted:#5c6b80;--line:#dde3ec;--accent:#0b6fb8;--good:#1a7f4b;--warn:#b35c00}
-@media (prefers-color-scheme:dark){:root{--bg:#0f1622;--card:#172131;--ink:#e8eef7;--muted:#9aa8bb;--line:#2a3648;--accent:#5fb0ef;--good:#4cc28a;--warn:#f0a04b}}
+:root{
+  --bg:#f3f6fa;--card:#ffffff;--ink:#10223a;--muted:#5d6e84;--line:#e2e8f0;
+  --sea:#0a4f8f;--sea2:#1d7fd1;--sky:#e8f2fc;--sand:#f6efe2;
+  --good:#16804a;--good-bg:#e5f5ec;--bad:#b4371f;--bad-bg:#fbeae6;--warn:#a85d00;--warn-bg:#fdf2e1;
+  --shadow:0 1px 2px rgba(16,34,58,.06),0 6px 20px rgba(16,34,58,.07);
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#0c1420;--card:#152132;--ink:#e9eff7;--muted:#97a6ba;--line:#24344a;
+  --sea:#4fa3ea;--sea2:#7cc0f5;--sky:#14304d;--sand:#2a2618;
+  --good:#4cc68a;--good-bg:#12321f;--bad:#f08a72;--bad-bg:#3a1c16;--warn:#f0aa55;--warn-bg:#3a2a12;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 20px rgba(0,0,0,.25);
+}}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
-header{padding:24px 16px 8px;max-width:1100px;margin:auto}
-h1{margin:0 0 4px;font-size:1.6rem}
-.sub{color:var(--muted)}
-main{max-width:1100px;margin:auto;padding:8px 16px 40px}
-.bar{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:12px 0 18px}
-select,input{font:inherit;padding:6px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink)}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;display:flex;flex-direction:column;gap:6px}
-.card h3{margin:0;font-size:1.05rem}
-.price{font-size:1.4rem;font-weight:700;color:var(--accent)}
-.tag{display:inline-block;font-size:.75rem;padding:2px 8px;border-radius:99px;border:1px solid var(--line);color:var(--muted);margin-right:4px}
-.tag.good{color:var(--good);border-color:var(--good)}
-.tag.warn{color:var(--warn);border-color:var(--warn)}
-.muted{color:var(--muted);font-size:.9rem}
-a{color:var(--accent)}
-.empty{padding:30px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:12px}
-#chart{width:100%;height:220px;background:var(--card);border:1px solid var(--line);border-radius:12px;margin-top:22px}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 -apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,sans-serif}
+a{color:inherit}
+.wrap{max-width:1080px;margin:0 auto;padding:0 16px}
+
+/* En-tête */
+.hero{background:linear-gradient(160deg,#0a3f75 0%,#0a4f8f 45%,#1d7fd1 100%);color:#fff;padding:calc(env(safe-area-inset-top) + 22px) 0 70px;position:relative;overflow:hidden}
+.hero svg.waves{position:absolute;left:0;right:0;bottom:-1px;width:100%;height:46px}
+.hero h1{margin:0;font-size:1.65rem;letter-spacing:-.01em}
+.hero .sub{opacity:.85;margin-top:4px;font-size:.95rem}
+.hero .upd{opacity:.75;font-size:.82rem;margin-top:10px}
+
+/* Meilleure offre */
+.best{margin-top:-52px;position:relative;z-index:2}
+.bestcard{background:var(--card);border-radius:20px;box-shadow:var(--shadow);padding:18px 18px 16px;display:grid;gap:12px;grid-template-columns:1fr auto;align-items:center}
+.ribbon{display:inline-flex;gap:6px;align-items:center;font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--sea)}
+.bestcard h2{margin:4px 0 2px;font-size:1.25rem}
+.bestcard .when{color:var(--muted);font-size:.95rem}
+.bestprice{text-align:right}
+.bestprice .big{font-size:2rem;font-weight:800;color:var(--sea);line-height:1}
+.bestprice .small{color:var(--muted);font-size:.8rem}
+.bestcard .actions{grid-column:1/-1}
+@media(max-width:560px){.bestcard{grid-template-columns:1fr}.bestprice{text-align:left}}
+
+/* Chiffres clés */
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:14px 0 6px}
+.stat{background:var(--card);border-radius:14px;padding:10px 12px;box-shadow:var(--shadow)}
+.stat b{display:block;font-size:1.15rem}
+.stat span{color:var(--muted);font-size:.78rem}
+
+/* Alertes */
+.alert{background:var(--warn-bg);color:var(--warn);border-radius:14px;padding:10px 14px;margin:12px 0;font-size:.92rem;display:flex;gap:10px}
+.alert.good{background:var(--good-bg);color:var(--good)}
+
+/* Filtres */
+.filters{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);padding:10px 0;margin:8px 0 4px}
+.chips{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:0 0 auto;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:99px;padding:7px 13px;font:inherit;font-size:.88rem;cursor:pointer;white-space:nowrap}
+.chip[aria-pressed="true"]{background:var(--sea);border-color:var(--sea);color:#fff}
+.sep{flex:0 0 1px;background:var(--line);margin:4px 2px}
+
+/* Cartes */
+.count{color:var(--muted);font-size:.85rem;margin:6px 2px 10px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
+@media(max-width:400px){.grid{grid-template-columns:1fr}}
+.card{background:var(--card);border-radius:18px;box-shadow:var(--shadow);overflow:hidden;display:flex;flex-direction:column}
+.card .top{padding:14px 16px 0;display:flex;gap:12px;align-items:flex-start}
+.date{flex:0 0 58px;text-align:center;border-radius:12px;background:var(--sky);color:var(--sea);padding:6px 0 5px}
+.date .d{font-size:1.45rem;font-weight:800;line-height:1}
+.date .m{font-size:.72rem;text-transform:uppercase;font-weight:700;letter-spacing:.05em}
+.date .w{font-size:.68rem;opacity:.8}
+.ttl{flex:1;min-width:0}
+.co{font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.ship{font-size:1.08rem;font-weight:700;margin:1px 0 2px}
+.meta{color:var(--muted);font-size:.86rem}
+.trend{flex:0 0 auto;font-size:.75rem;font-weight:700;border-radius:99px;padding:3px 9px;background:var(--sky);color:var(--sea);white-space:nowrap}
+.trend.down{background:var(--good-bg);color:var(--good)}
+.trend.up{background:var(--bad-bg);color:var(--bad)}
+.trend.flat{background:var(--line);color:var(--muted)}
+.route{display:flex;flex-wrap:wrap;align-items:center;gap:4px 0;padding:12px 16px 0;font-size:.82rem}
+.route .p{white-space:nowrap}
+.route .p.gr{font-weight:600}
+.route .arr{color:var(--muted);margin:0 6px}
+.pricebox{margin:12px 16px 0;padding:12px;border-radius:14px;background:var(--bg)}
+.pricebox .row{display:flex;justify-content:space-between;align-items:baseline}
+.total{font-size:1.6rem;font-weight:800;color:var(--sea)}
+.total small{font-size:.8rem;font-weight:500;color:var(--muted)}
+.bud{font-size:.78rem;font-weight:700;border-radius:99px;padding:2px 8px}
+.bud.ok{background:var(--good-bg);color:var(--good)}
+.bud.ko{background:var(--bad-bg);color:var(--bad)}
+.stack{display:flex;height:8px;border-radius:99px;overflow:hidden;background:var(--line);margin:10px 0 6px;position:relative}
+.stack i{display:block;height:100%}
+.stack .c{background:var(--sea)}.stack .v{background:#e39b2d}.stack .h{background:#9b6bd1}
+.stack .lim{position:absolute;top:-3px;bottom:-3px;width:2px;background:var(--ink);opacity:.35}
+.legend{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:.78rem;color:var(--muted)}
+.legend span::before{content:"";display:inline-block;width:8px;height:8px;border-radius:2px;margin-right:5px;vertical-align:0}
+.legend .c::before{background:var(--sea)}.legend .v::before{background:#e39b2d}.legend .h::before{background:#9b6bd1}
+.inc{display:flex;flex-wrap:wrap;gap:6px;padding:10px 16px 0}
+.inc span{font-size:.76rem;border-radius:8px;padding:3px 8px;background:var(--sand);color:var(--ink)}
+details.more{padding:8px 16px 0;font-size:.85rem;color:var(--muted)}
+details.more summary{cursor:pointer;color:var(--sea);font-weight:600;list-style:none}
+details.more summary::-webkit-details-marker{display:none}
+details.more summary::after{content:" ▾"}
+details.more[open] summary::after{content:" ▴"}
+details.more p{margin:6px 0}
+.actions{display:flex;gap:8px;padding:14px 16px 16px;margin-top:auto;flex-wrap:wrap}
+.btn{flex:1 1 auto;text-align:center;text-decoration:none;font-weight:700;font-size:.92rem;border-radius:12px;padding:11px 14px;border:1px solid var(--sea);color:var(--sea);background:transparent}
+.btn.primary{background:var(--sea);color:#fff}
+.btn.ghost{border-color:var(--line);color:var(--muted);font-weight:600;flex:0 0 auto}
+.bestcard .actions{padding:0}
+
+.empty{padding:34px 16px;text-align:center;color:var(--muted);background:var(--card);border-radius:18px}
+
+/* Sections bas de page */
+section.box{background:var(--card);border-radius:18px;box-shadow:var(--shadow);padding:16px;margin-top:22px}
+section.box h3{margin:0 0 8px;font-size:1.05rem}
+#chart{width:100%;height:auto;max-height:240px;display:block}
+.notes{margin:0;padding-left:18px;color:var(--muted);font-size:.88rem}
+.notes li{margin:4px 0}
+.foot{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;color:var(--muted);font-size:.85rem;margin:20px 0 calc(30px + env(safe-area-inset-bottom))}
+select{font:inherit;padding:6px 10px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink)}
 </style>
 </head>
 <body>
-<header>
-  <h1>Croisières îles grecques — sept./oct. 2027</h1>
-  <div class="sub">2 adultes · budget max 3 000 € tout compris · vols depuis Paris si besoin</div>
-</header>
-<main>
-  <div class="bar">
-    <label>Veille du <select id="run"></select></label>
-    <label>Trier <select id="sort"><option value="total">Prix total</option><option value="nuit">Prix / nuit</option><option value="date">Date de départ</option></select></label>
-    <label><input type="checkbox" id="budget" checked> ≤ 3 000 € seulement</label>
-    <span class="muted" id="meta"></span>
+
+<div class="hero">
+  <div class="wrap">
+    <h1>⛵ Croisière îles grecques</h1>
+    <div class="sub">Septembre – octobre 2027 · 2 adultes · budget 3&nbsp;000&nbsp;€ tout compris</div>
+    <div class="upd" id="upd">Chargement…</div>
   </div>
-  <div id="list" class="grid"></div>
-  <h2 style="margin-top:28px;font-size:1.1rem">Évolution du meilleur prix</h2>
-  <svg id="chart" viewBox="0 0 800 220" preserveAspectRatio="none"></svg>
+  <svg class="waves" viewBox="0 0 1200 46" preserveAspectRatio="none" aria-hidden="true"><path d="M0 26 C150 6 300 46 450 26 S750 6 900 26 S1100 40 1200 22 V46 H0Z" fill="var(--bg)"/></svg>
+</div>
+
+<main class="wrap">
+  <div class="best" id="best"></div>
+  <div class="stats" id="stats"></div>
+  <div id="alerts"></div>
+
+  <div class="filters">
+    <div class="chips" id="chips">
+      <button class="chip" data-g="sort" data-v="total" aria-pressed="true">Moins cher</button>
+      <button class="chip" data-g="sort" data-v="nuit" aria-pressed="false">Prix / nuit</button>
+      <button class="chip" data-g="sort" data-v="date" aria-pressed="false">Par date</button>
+      <span class="sep"></span>
+      <button class="chip" data-g="mois" data-v="all" aria-pressed="true">Sept. + oct.</button>
+      <button class="chip" data-g="mois" data-v="09" aria-pressed="false">Septembre</button>
+      <button class="chip" data-g="mois" data-v="10" aria-pressed="false">Octobre</button>
+      <span class="sep"></span>
+      <button class="chip" data-g="vol" data-v="all" aria-pressed="true">Tous départs</button>
+      <button class="chip" data-g="vol" data-v="sans" aria-pressed="false">🚢 Sans avion</button>
+      <button class="chip" data-g="vol" data-v="avec" aria-pressed="false">✈️ Avec avion</button>
+      <span class="sep"></span>
+      <button class="chip" data-g="budget" data-v="1" aria-pressed="true">Dans le budget</button>
+    </div>
+  </div>
+
+  <div class="count" id="count"></div>
+  <div class="grid" id="list"></div>
+
+  <section class="box">
+    <h3>📉 Évolution du meilleur prix</h3>
+    <svg id="chart" viewBox="0 0 800 200" role="img" aria-label="Évolution du meilleur prix"></svg>
+  </section>
+
+  <section class="box">
+    <h3>ℹ️ À savoir</h3>
+    <ul class="notes" id="notes"></ul>
+  </section>
+
+  <div class="foot">
+    <label>Voir une veille précédente : <select id="run"></select></label>
+    <span>Rien n'est réservé automatiquement · les prix peuvent changer</span>
+  </div>
 </main>
+
 <script>
 const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const eur=n=>(n==null||isNaN(n))?'—':Math.round(n).toLocaleString('fr-FR')+' €';
+const BUDGET=3000;
+const GREEK=/santorin|mykonos|rhodes|corfou|crète|crete|héraklion|heraklion|chania|patmos|milos|syros|céphalonie|cephalonie|argostoli|katakolon|pirée|piree|athènes|athenes|lavrion|nauplie|nauplion|volos|kavala|thessalonique|zante|agios|kos|paros|naxos/i;
+const st={sort:'total',mois:'all',vol:'all',budget:'1'};
 let data=null;
+
 async function j(u){const r=await fetch(u+'?t='+Date.now());if(!r.ok)throw new Error(u);return r.json()}
-async function loadRuns(){
-  let runs=[];try{runs=await j('data/runs/index.json')}catch(e){}
-  const sel=$('#run');sel.innerHTML='<option value="latest">Dernière</option>'+runs.slice().reverse().map(d=>`<option value="${d}">${new Date(d).toLocaleDateString('fr-FR')}</option>`).join('');
-  sel.onchange=()=>load(sel.value);
+function d(s){const [y,m,dd]=String(s).split('-').map(Number);return new Date(y,m-1,dd)}
+function fmtLong(s){return d(s).toLocaleDateString('fr-FR',{weekday:'long',day:'numeric',month:'long',year:'numeric'})}
+function hotel(x){return Math.max(0,(x.prix_total_2pers||0)-(x.prix_croisiere_2pers||0)-(x.prix_vols_2pers||0))}
+
+function trendClass(t){t=String(t||'');if(t.startsWith('▼'))return 'down';if(t.startsWith('▲'))return 'up';if(t.startsWith('='))return 'flat';return ''}
+function trendLabel(t){t=String(t||'');if(!t)return '';if(/^NOUVEAU/i.test(t))return 'Nouveau';if(/changement de source/i.test(t))return 'Nouveau prix';if(t==='=')return 'Stable';return t}
+
+function route(it){
+  const ps=String(it||'').split(/\s*[–—-]\s*/).filter(Boolean);
+  return ps.map((p,i)=>`<span class="p${GREEK.test(p)?' gr':''}">${esc(p)}</span>${i<ps.length-1?'<span class="arr">›</span>':''}`).join('');
 }
-async function load(which){
-  try{data=await j(which==='latest'?'data/latest.json':`data/runs/${which}.json`)}catch(e){data=null}
-  render();
+function priceBox(x){
+  const t=x.prix_total_2pers||0,c=x.prix_croisiere_2pers||0,v=x.prix_vols_2pers||0,h=hotel(x);
+  const scale=Math.max(t,BUDGET)*1.02,pc=c/scale*100,pv=v/scale*100,ph=h/scale*100,lim=BUDGET/scale*100;
+  const ok=t<=BUDGET;
+  return `<div class="pricebox">
+    <div class="row"><div class="total">${eur(t)} <small>pour 2</small></div>
+    <span class="bud ${ok?'ok':'ko'}">${ok?'✓ reste '+eur(BUDGET-t):'+'+eur(t-BUDGET)+' au-dessus'}</span></div>
+    <div class="stack"><i class="c" style="width:${pc}%"></i><i class="v" style="width:${pv}%"></i><i class="h" style="width:${ph}%"></i><span class="lim" style="left:${lim}%" title="Budget 3 000 €"></span></div>
+    <div class="legend"><span class="c">Croisière ${eur(c)}</span>${v?`<span class="v">Avion ${eur(v)}</span>`:'<span>🚢 pas d\'avion</span>'}${h?`<span class="h">Hôtel ${eur(h)}</span>`:''}</div>
+  </div>`;
+}
+function buttons(x,big){
+  return `<div class="actions">
+    ${x.lien?`<a class="btn primary" href="${esc(x.lien)}" target="_blank" rel="noopener">Voir la croisière</a>`:''}
+    ${x.lien_vol?`<a class="btn" href="${esc(x.lien_vol)}" target="_blank" rel="noopener">✈️ Voir le vol</a>`:''}
+    ${x.lien_source&&!big?`<a class="btn ghost" href="${esc(x.lien_source)}" target="_blank" rel="noopener">Source (anglais)</a>`:''}
+  </div>`;
+}
+function card(x){
+  const dt=d(x.date_depart);
+  const tl=trendLabel(x.tendance);
+  const more=[x.vol_detail&&x.vol_inclus?`<p>✈️ ${esc(x.vol_detail)}</p>`:'',x.cabine?`<p>🛏️ Cabine : ${esc(x.cabine)}</p>`:'',x.remarque?`<p>${esc(x.remarque)}</p>`:'',/changement de source/i.test(x.tendance||'')?`<p>${esc(x.tendance)}</p>`:''].join('');
+  return `<article class="card">
+    <div class="top">
+      <div class="date"><div class="w">${dt.toLocaleDateString('fr-FR',{weekday:'short'})}</div><div class="d">${dt.getDate()}</div><div class="m">${dt.toLocaleDateString('fr-FR',{month:'short'}).replace('.','')}</div></div>
+      <div class="ttl"><div class="co">${esc(x.compagnie)}</div><div class="ship">${esc(x.navire)}</div>
+        <div class="meta">${x.nuits} nuits · départ ${esc(x.port_depart)}</div></div>
+      ${tl?`<span class="trend ${trendClass(x.tendance)}">${esc(tl)}</span>`:''}
+    </div>
+    <div class="route">${route(x.itineraire)}</div>
+    ${priceBox(x)}
+    ${(x.inclus||[]).length?`<div class="inc">${x.inclus.map(t=>`<span>${esc(t)}</span>`).join('')}</div>`:''}
+    ${more?`<details class="more"><summary>Détails</summary>${more}</details>`:''}
+    ${buttons(x)}
+  </article>`;
+}
+
+function filtered(){
+  let o=(data?.offres||[]).slice();
+  if(st.budget==='1')o=o.filter(x=>x.prix_total_2pers<=BUDGET);
+  if(st.mois!=='all')o=o.filter(x=>String(x.date_depart).slice(5,7)===st.mois);
+  if(st.vol==='sans')o=o.filter(x=>!x.vol_inclus);
+  if(st.vol==='avec')o=o.filter(x=>x.vol_inclus);
+  o.sort((a,b)=>st.sort==='total'?a.prix_total_2pers-b.prix_total_2pers:st.sort==='nuit'?(a.prix_total_2pers/a.nuits)-(b.prix_total_2pers/b.nuits):String(a.date_depart).localeCompare(b.date_depart));
+  return o;
 }
 function render(){
-  const list=$('#list');
-  if(!data||!data.offres||!data.offres.length){list.innerHTML='<div class="empty">Pas encore de résultats — la première veille arrive demain matin à 7h.</div>';$('#meta').textContent='';return}
-  $('#meta').textContent=`Mise à jour : ${new Date(data.date_veille).toLocaleString('fr-FR')} · ${data.offres.length} offres`;
-  let o=data.offres.slice();
-  if($('#budget').checked)o=o.filter(x=>x.prix_total_2pers<=3000);
-  const k=$('#sort').value;
-  o.sort((a,b)=>k==='total'?a.prix_total_2pers-b.prix_total_2pers:k==='nuit'?(a.prix_total_2pers/a.nuits)-(b.prix_total_2pers/b.nuits):String(a.date_depart).localeCompare(b.date_depart));
-  list.innerHTML=o.map(x=>`<div class="card">
-    <h3>${x.compagnie} — ${x.navire||''}</h3>
-    <div class="muted">${x.itineraire||''}</div>
-    <div class="price">${eur(x.prix_total_2pers)} <span class="muted" style="font-weight:400;font-size:.85rem">pour 2</span></div>
-    <div class="muted">Croisière ${eur(x.prix_croisiere_2pers)} · Vols ${x.vol_inclus?eur(x.prix_vols_2pers):'non nécessaires'}</div>
-    <div>Départ <b>${x.port_depart}</b> · ${x.date_depart?new Date(x.date_depart).toLocaleDateString('fr-FR'):''} · ${x.nuits} nuits · ${x.cabine||''}</div>
-    <div>${x.prix_total_2pers<=3000?'<span class="tag good">Dans le budget</span>':'<span class="tag warn">Hors budget</span>'}${x.tendance?`<span class="tag">${x.tendance}</span>`:''}${(x.inclus||[]).map(t=>`<span class="tag">${t}</span>`).join('')}</div>
-    ${x.remarque?`<div class="muted">${x.remarque}</div>`:''}
-    <div>${x.lien?`<a href="${x.lien}" target="_blank" rel="noopener">Voir l'offre</a>`:''}${x.lien_vol?` · <a href="${x.lien_vol}" target="_blank" rel="noopener">Voir le vol</a>`:''}${x.lien_source?` · <a href="${x.lien_source}" target="_blank" rel="noopener" class="muted">Source du prix (site en anglais)</a>`:''}</div>
-  </div>`).join('')||'<div class="empty">Aucune offre sous le budget dans cette veille.</div>';
+  const all=data?.offres||[];
+  if(!all.length){$('#best').innerHTML='<div class="empty">Pas encore de résultats — la prochaine veille arrive demain matin.</div>';$('#list').innerHTML='';$('#stats').innerHTML='';$('#count').textContent='';return}
+  $('#upd').textContent='Mise à jour le '+new Date(data.date_veille).toLocaleString('fr-FR',{weekday:'long',day:'numeric',month:'long',hour:'2-digit',minute:'2-digit'});
+  const sorted=all.slice().sort((a,b)=>a.prix_total_2pers-b.prix_total_2pers),b=sorted[0];
+  $('#best').innerHTML=`<div class="bestcard">
+    <div><div class="ribbon">★ Meilleure offre du jour</div><h2>${esc(b.compagnie)} · ${esc(b.navire)}</h2>
+      <div class="when">${fmtLong(b.date_depart)} · ${b.nuits} nuits · départ ${esc(b.port_depart)}${b.vol_inclus?'':' · 🚢 sans avion'}</div></div>
+    <div class="bestprice"><div class="big">${eur(b.prix_total_2pers)}</div><div class="small">pour 2, tout compris</div></div>
+    ${buttons(b,true)}
+  </div>`;
+  const inB=all.filter(x=>x.prix_total_2pers<=BUDGET).length,comp=new Set(all.map(x=>x.compagnie)).size;
+  $('#stats').innerHTML=`<div class="stat"><b>${inB}</b><span>offres dans le budget</span></div><div class="stat"><b>${eur(b.prix_total_2pers)}</b><span>meilleur prix pour 2</span></div><div class="stat"><b>${comp}</b><span>compagnies</span></div>`;
+  $('#alerts').innerHTML=(data.alertes||[]).map(a=>`<div class="alert good">🔔 <div>${esc(a)}</div></div>`).join('');
+  const o=filtered();
+  $('#count').textContent=`${o.length} croisière${o.length>1?'s':''} affichée${o.length>1?'s':''}`;
+  $('#list').innerHTML=o.map(card).join('')||'<div class="empty">Aucune croisière ne correspond à ces filtres.</div>';
+  $('#notes').innerHTML=(data.notes||[]).map(n=>`<li>${esc(n)}</li>`).join('')+'<li>Ajouter ce site à l\'écran d\'accueil de l\'iPhone : Safari → Partager → « Sur l\'écran d\'accueil ».</li>';
 }
+
+$('#chips').addEventListener('click',e=>{
+  const c=e.target.closest('.chip');if(!c)return;const g=c.dataset.g;
+  if(g==='budget'){st.budget=st.budget==='1'?'0':'1';c.setAttribute('aria-pressed',st.budget==='1')}
+  else{st[g]=c.dataset.v;document.querySelectorAll(`.chip[data-g="${g}"]`).forEach(x=>x.setAttribute('aria-pressed',x===c))}
+  render();
+});
+
+async function loadRuns(){
+  let runs=[];try{runs=await j('data/runs/index.json')}catch(e){}
+  const sel=$('#run');sel.innerHTML='<option value="latest">Dernière veille</option>'+runs.slice().reverse().map(x=>`<option value="${x}">${d(x).toLocaleDateString('fr-FR')}</option>`).join('');
+  sel.onchange=()=>load(sel.value);
+}
+async function load(w){try{data=await j(w==='latest'?'data/latest.json':`data/runs/${w}.json`)}catch(e){data=null}render()}
+
 async function chart(){
   let txt='';try{const r=await fetch('data/historique.csv?t='+Date.now());if(r.ok)txt=await r.text()}catch(e){}
   const rows=txt.trim().split('\n').slice(1).map(l=>l.split(',')).filter(r=>r.length>=2&&!isNaN(+r[1]));
-  const svg=$('#chart');if(rows.length<2){svg.innerHTML='<text x="400" y="115" text-anchor="middle" fill="currentColor" opacity=".5">Historique disponible après 2 veilles</text>';return}
-  const v=rows.map(r=>+r[1]),mn=Math.min(...v)*.95,mx=Math.max(...v)*1.05;
-  const pts=v.map((y,i)=>`${30+i*(740/(v.length-1))},${200-(y-mn)/(mx-mn)*180}`).join(' ');
-  svg.innerHTML=`<polyline points="${pts}" fill="none" stroke="var(--accent)" stroke-width="2.5"/>`+v.map((y,i)=>`<circle cx="${30+i*(740/(v.length-1))}" cy="${200-(y-mn)/(mx-mn)*180}" r="3" fill="var(--accent)"><title>${rows[i][0]} : ${eur(y)}</title></circle>`).join('');
+  const svg=$('#chart');
+  if(rows.length<2){svg.innerHTML=`<text x="400" y="100" text-anchor="middle" fill="currentColor" opacity=".55" font-size="16">${rows.length?'Meilleur prix du '+d(rows[0][0]).toLocaleDateString('fr-FR')+' : '+eur(+rows[0][1])+' — la courbe apparaîtra dès la 2ᵉ veille':'Historique disponible après 2 veilles'}</text>`;return}
+  const v=rows.map(r=>+r[1]),lo=Math.min(...v,BUDGET)*.92,hi=Math.max(...v,BUDGET)*1.04;
+  const X=i=>50+i*(730/(v.length-1)),Y=y=>180-(y-lo)/(hi-lo)*160;
+  const pts=v.map((y,i)=>`${X(i)},${Y(y)}`).join(' ');
+  svg.innerHTML=`<line x1="40" x2="790" y1="${Y(BUDGET)}" y2="${Y(BUDGET)}" stroke="var(--bad)" stroke-dasharray="6 6" opacity=".6"/>
+   <text x="44" y="${Y(BUDGET)-6}" font-size="12" fill="var(--bad)">budget 3 000 €</text>
+   <polygon points="${X(0)},180 ${pts} ${X(v.length-1)},180" fill="var(--sea)" opacity=".1"/>
+   <polyline points="${pts}" fill="none" stroke="var(--sea)" stroke-width="3" stroke-linejoin="round"/>
+   ${v.map((y,i)=>`<circle cx="${X(i)}" cy="${Y(y)}" r="4" fill="var(--sea)"><title>${d(rows[i][0]).toLocaleDateString('fr-FR')} : ${eur(y)}</title></circle>`).join('')}
+   <text x="${X(0)}" y="197" font-size="12" fill="currentColor" opacity=".6">${d(rows[0][0]).toLocaleDateString('fr-FR')}</text>
+   <text x="${X(v.length-1)}" y="197" font-size="12" text-anchor="end" fill="currentColor" opacity=".6">${d(rows[rows.length-1][0]).toLocaleDateString('fr-FR')}</text>
+   <text x="${X(v.length-1)}" y="${Y(v[v.length-1])-10}" font-size="13" font-weight="700" text-anchor="end" fill="var(--sea)">${eur(v[v.length-1])}</text>`;
 }
-$('#sort').onchange=render;$('#budget').onchange=render;
 loadRuns();load('latest');chart();
 </script>
 </body>
