@@ -210,7 +210,7 @@ function priceBox(x){
   const ok=t<=BUDGET;
   return `<div class="pricebox">
     <div class="row"><div class="total">${eur(t)} <small>pour 2</small></div>
-    <span class="bud ${ok?'ok':'ko'}">${ok?'✓ reste '+eur(BUDGET-t):'+'+eur(t-BUDGET)+' au-dessus'}</span></div>
+    ${ok?'':`<span class="bud ko">+${eur(t-BUDGET)} au-dessus</span>`}</div>
     <div class="stack"><i class="c" style="width:${pc}%"></i><i class="v" style="width:${pv}%"></i><i class="h" style="width:${ph}%"></i><span class="lim" style="left:${lim}%" title="Budget 3 000 €"></span></div>
     <div class="legend"><span class="c">Croisière ${eur(c)}</span>${v?`<span class="v">Avion ${eur(v)}</span>`:'<span>🚢 pas d\'avion</span>'}${h?`<span class="h">Hôtel ${eur(h)}</span>`:''}</div>
   </div>`;
