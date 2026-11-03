@@ -1,16 +1,13 @@
 {
-  "date_veille": "2026-11-03T10:41:42+00:00",
-  "resume": "Meilleure offre : Royal Caribbean – Brilliance of the Seas au départ de Ravenne le 18/09/2027, 7 nuits, 1536 € pour 2 sans vol. 13 croisières îles grecques sous 3 000 € trouvées pour sept.-oct. 2027 (premier relevé, pas encore de comparaison).",
-  "alertes": [
-    "Premier relevé : nouveau meilleur prix jamais relevé = 1536 € (Royal Caribbean Brilliance of the Seas, départ Ravenne (Italie) le 2027-09-18).",
-    "13 offres sous 3 000 € tout compris pour 2."
-  ],
+  "date_veille": "2026-11-03T10:43:56+00:00",
+  "resume": "Meilleure offre : Royal Caribbean – Brilliance of the Seas au départ de Ravenne le 18/09/2027, 7 nuits, 1536 € pour 2 sans vol. 13 croisières îles grecques sous 3 000 € pour sept.-oct. 2027 ; prix stables depuis le relevé du matin, seul le vol de la Celestyal Journey a baissé.",
+  "alertes": [],
   "notes": [
-    "Premier run : toutes les offres sont NOUVEAU, aucune variation calculable.",
+    "Run de test manuel (2e relevé du 03/11/2026) : comparaison avec le relevé du matin ; prix croisières revérifiés, identiques.",
     "Prix « à partir de » par personne taxes incluses lus sur Taoticket (affichés en USD) ; convertis à 0,89 €/$ (taux BdF du jour non trouvé). Le prix final en € chez un vendeur français peut différer.",
     "Cabine supposée intérieure (prix d'appel) ; pourboires et boissons non inclus sauf mention contraire, à vérifier.",
-    "Vols : eDreams (aller-retour 2 adultes depuis Paris). Expedia non interrogé ce jour.",
-    "Comparateurs français (Croisierenet, Promovacances, Abcroisiere, Voyage Privé…) : aucun résultat 2027 exploitable dans les recherches ce jour ; source principale Taoticket. Page détail Celestyal non lisible (robots).",
+    "Vols : eDreams (aller-retour 2 adultes depuis Paris). Expedia testé (PAR-ATH 05-10/09 : 490 $ ≈ 436 € pour 2 en direct Air France), plus cher que eDreams.",
+    "Comparateurs français (Croisierenet, Promovacances, Abcroisiere, Voyage Privé…) : aucun résultat 2027 exploitable ; source principale Taoticket. Page détail Celestyal non lisible (robots).",
     "Exclues : MSC Sinfonia 19/10 Athènes→Bari (446 $/pers, sans lien, peut-être complète), Costa Pacifica (escales Istanbul/Turquie, prix en AUD), MSC Splendida (1 seule île grecque).",
     "Rien n'a été réservé. Les prix sont relevés au moment de la recherche et peuvent changer."
   ],
@@ -28,7 +25,7 @@
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
       "prix_total_2pers": 1536,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Taxes portuaires"
@@ -50,7 +47,7 @@
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
       "prix_total_2pers": 1538,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Taxes portuaires"
@@ -72,7 +69,7 @@
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
       "prix_total_2pers": 1549,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Taxes portuaires"
@@ -94,7 +91,7 @@
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
       "prix_total_2pers": 1565,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Taxes portuaires"
@@ -116,7 +113,7 @@
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
       "prix_total_2pers": 1652,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Taxes portuaires"
@@ -138,7 +135,7 @@
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
       "prix_total_2pers": 1661,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Taxes portuaires"
@@ -160,7 +157,7 @@
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
       "prix_total_2pers": 1673,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Taxes portuaires"
@@ -182,7 +179,7 @@
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
       "prix_total_2pers": 1693,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Taxes portuaires"
@@ -204,7 +201,7 @@
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
       "prix_total_2pers": 1753,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Taxes portuaires"
@@ -226,7 +223,7 @@
       "prix_vols_2pers": 382,
       "vol_detail": "Transavia ORY 05/09 19:30 → ATH 23:45 ; retour easyJet ATH 10/09 11:15 → ORY 13:45, direct (eDreams, 382 € pour 2)",
       "prix_total_2pers": 1755,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Taxes portuaires"
@@ -248,7 +245,7 @@
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
       "prix_total_2pers": 1837,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Taxes portuaires"
@@ -270,7 +267,7 @@
       "prix_vols_2pers": 352,
       "vol_detail": "Transavia ORY 18/10 13:05 → ATH 17:20 ; retour ATH 25/10 12:05 → ORY 14:35, direct (eDreams, 352 € pour 2)",
       "prix_total_2pers": 1992,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Taxes portuaires"
@@ -289,17 +286,17 @@
       "cabine": "Intérieure (prix d'appel « à partir de »)",
       "prix_croisiere_2pers": 2239,
       "vol_inclus": true,
-      "prix_vols_2pers": 484,
-      "vol_detail": "Aegean CDG 03/09 11:05 → ATH 15:15 ; retour ATH 11/09 17:55 → CDG 20:25, direct (eDreams, 484 € pour 2)",
-      "prix_total_2pers": 2843,
-      "tendance": "NOUVEAU",
+      "prix_vols_2pers": 408,
+      "vol_detail": "Transavia ORY 03/09 13:45 → ATH 18:00 ; retour easyJet ATH 11/09 20:05 → ORY 22:35, direct (eDreams, 408 € pour 2)",
+      "prix_total_2pers": 2767,
+      "tendance": "▼ -76 € (-2.7 %)",
       "inclus": [
         "Pension complète",
         "Taxes portuaires"
       ],
       "remarque": "Prix lu : 1258 $/pers taxes incluses (Taoticket), converti à 0,89 €/$. Nuit d'hôtel la veille à Athènes estimée 120 € (incluse). Le plus « 100 % îles grecques ».",
       "lien": "https://www.taoticket.com/en_US/co/celestyal-cruises/croc/740/journey-idyllic-greece/MANCEL7402027090407",
-      "lien_vol": "https://www.edreams.com/travel/?mktportal=Claude-App&searchId=174835056728&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/ret=2027-09-11;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=CDG;to.iata=ATH;dep=2027-09-03;collectionmethod=16&fareItineraryKey=24&segmentKey0=0,A3611&segmentKey1=0,A3614"
+      "lien_vol": "https://www.edreams.com/travel/?mktportal=Claude-App&searchId=174832553984&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/ret=2027-09-11;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=ORY;to.iata=ATH;dep=2027-09-03;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,TO3526&segmentKey1=0,U24880"
     }
   ]
 }
