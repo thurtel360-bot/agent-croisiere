@@ -1,14 +1,15 @@
 {
-  "date_veille": "2026-11-04T06:12:11+00:00",
-  "resume": "Meilleure offre : Royal Caribbean – Brilliance of the Seas au départ de Ravenne le 18/09/2027, 7 nuits, 1344 € pour 2 sans vol (prix stable). 23 offres sous 3 000 € ; nouveautés du jour : Explorer of the Seas Rome → Le Pirée le 18/10 (1 654 € avec vols) et Rhapsody of the Seas Le Pirée le 10/09 (1 860 €).",
+  "date_veille": "2026-11-05T06:06:41+00:00",
+  "resume": "Meilleure offre : Royal Caribbean – Brilliance of the Seas au départ de Ravenne le 18/09/2027, 7 nuits, 1346 € pour 2 sans vol (+2 €, stable). 29 offres sous 3 000 € ; prix quasi inchangés depuis hier, 6 nouvelles offres ajoutées dont Explorer of the Seas Rome → Le Pirée le 27/09 (1 870 € avec vols) et MSC Orchestra Bari le 09/10 (2 038 €).",
   "alertes": [],
   "notes": [
-    "Source principale : croisieres.fr (en français, prix en euros par personne). Balayage complet de septembre 2027 (130 croisières) et d'octobre 2027 (139 croisières) sur la page « Iles Grecques », filtre Mois, toutes les pages chargées.",
-    "Compagnies vues sur croisieres.fr pour ces mois : MSC, Costa, Royal Caribbean, Celestyal, Norwegian, Celebrity, Princess, Virgin Voyages, Carnival, Cunard, Oceania, Azamara, Holland America (Rotterdam), Star Clippers (Star Flyer, Royal Clipper), Croisieurope (La Belle de l'Adriatique). Sous 3 000 € pour 2 avec vols : MSC, Royal Caribbean, Celestyal, Costa ; Norwegian, Celebrity, Princess, Carnival, Virgin, Cunard au-dessus ou itinéraire trop peu grec ; Oceania, Azamara, Star Clippers, Croisieurope, Holland America hors budget ou hors critères.",
-    "Non trouvées dans les critères sur croisieres.fr : Marella (vendue au Royaume-Uni uniquement), Variety Cruises, Ponant, Explora, Seabourn, Silversea, Regent, Viking, Windstar (recherches web faites, aucune offre chiffrée sous 3 000 € pour 2 relevée).",
+    "Source principale : croisieres.fr (en français, prix en euros par personne). Balayage complet de septembre 2027 (130 croisières) et d'octobre 2027 (139 croisières) sur la page « Iles Grecques », filtre Mois, toutes les cartes chargées (« Voir plus » jusqu'au bout). Chaque lien « Voir l'offre » a été ouvert et vérifié (pas de redirection, navire affiché) et le prix lu dans le bloc « MEILLEUR PRIX ».",
+    "Compagnies vues sur croisieres.fr pour ces mois : MSC, Costa, Royal Caribbean, Celestyal, Norwegian, Celebrity, Princess, Virgin Voyages, Carnival, Cunard, Oceania, Azamara, Holland America, Star Clippers, Croisieurope, Seabourn, Explora, Silversea, Regent Seven Seas, Ponant, Four Seasons, Ritz-Carlton (Evrima, Ilma). Sous 3 000 € pour 2 avec vols : MSC, Royal Caribbean, Celestyal, Costa ; Norwegian, Celebrity, Princess, Carnival, Virgin, Cunard au-dessus ou itinéraire trop peu grec ; luxe (Oceania, Azamara, Seabourn, Explora, Silversea, Regent, Ponant, Four Seasons, Ritz-Carlton, Star Clippers, Croisieurope, Holland America) hors budget ou hors critères.",
+    "Non trouvées dans les critères sur les sites français : Marella (vendue au Royaume-Uni uniquement, ex. Marella Explorer « Aegean Shores » 01/10/2027), Variety Cruises (seulement sur Taoticket, en anglais, sans prix sous le budget relevé), Windstar, Viking. 3 recherches web faites le 05/11/2026.",
     "Hypothèses : majorité d'escales grecques exigée (Lirica Venise et Rhapsody 17/09 ou 08/10 sont des itinéraires mixtes, signalés). Explorer of the Seas Le Pirée → Barcelone du 25/10 (525 €/pers) écarté : seulement 2 escales grecques sur 4 et vol retour de novembre pas encore en vente.",
-    "Vols : eDreams France, 2 adultes depuis Paris-Orly ; Expedia ne vend pas encore au-delà du 29/09/2027 (comparaison faite pour le 09/09 : ≈ 330 € contre 390 € sur eDreams). Les vols de novembre 2027 ne sont pas encore en vente : retours estimés et marqués « vol estimé ». Trois vols repris du relevé du 03/11 (Celestyal Journey 16/10, Rhapsody 01/10, MSC Orchestra 05/10). Nuit d'hôtel la veille estimée 120 € quand le port nécessite un vol.",
-    "Les prix croisieres.fr ne précisent pas si les taxes portuaires sont incluses : à vérifier avec « Calculez votre devis ». MSC Lirica et Celestyal Discovery sont désormais sur croisieres.fr : « changement de source » par rapport à Taoticket, pas d'alerte.",
+    "Écartés : MSC Divina Marmaris 25/10 (4 nuits, 1 seule escale grecque), Explorer of the Seas Le Pirée → Barcelone 25/10 (2 escales grecques sur 5), Rhapsody of the Seas 03/09 et 15/10 (Chypre/Égypte), Costa Pacifica 01/10-17/10 (escale Al Fujairah incohérente, à vérifier), Norwegian Gem (itinéraires Adriatique).",
+    "Vols : eDreams France, 2 adultes depuis Paris-Orly. Recherchés aujourd'hui pour les 6 nouvelles offres ; pour les autres, vols repris des relevés du 03/11 ou 04/11 (indiqué dans le détail). Expedia ne vend pas encore au-delà du 30/09/2027 (pas de comparaison possible). Vols de novembre 2027 pas encore en vente : retours estimés (« vol estimé »). Nuit d'hôtel la veille estimée 120 € quand le port nécessite un vol.",
+    "Les prix croisieres.fr ne précisent pas si les taxes portuaires sont incluses : à vérifier avec « Calculez votre devis ». Écart de 1 € possible entre la carte de la liste et la fiche (Brilliance 09/10 : 719 € sur la carte, 718 € sur la fiche) : prix de la fiche retenu.",
     "Rien n'a été réservé. Les prix sont relevés au moment de la recherche et peuvent changer."
   ],
   "offres": [
@@ -20,17 +21,17 @@
       "date_depart": "2027-09-18",
       "nuits": 7,
       "cabine": "Intérieure (prix « dès »)",
-      "prix_croisiere_2pers": 1344,
+      "prix_croisiere_2pers": 1346,
       "vol_inclus": false,
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
-      "prix_total_2pers": 1344,
-      "tendance": "=",
+      "prix_total_2pers": 1346,
+      "tendance": "= (+2 €)",
       "inclus": [
         "Pension complète",
         "Activités à bord"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 672 €/pers. Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 673 €/pers. Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-11419645-royal-caribbean-brilliance-of-the-seas-iles-grecques/ODQ3NTMxNTIsY2FiXzE=",
       "lien_vol": "",
       "lien_source": ""
@@ -48,7 +49,7 @@
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
       "prix_total_2pers": 1430,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Internet à bord"
@@ -140,7 +141,7 @@
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
       "prix_total_2pers": 1506,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Activités à bord"
@@ -163,7 +164,7 @@
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
       "prix_total_2pers": 1530,
-      "tendance": "changement de source (avant 1548 € sur Taoticket)",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Internet à bord"
@@ -186,7 +187,7 @@
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
       "prix_total_2pers": 1530,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Internet à bord"
@@ -209,7 +210,7 @@
       "prix_vols_2pers": 0,
       "vol_detail": "Aucun vol compté (port d'Italie du Nord)",
       "prix_total_2pers": 1630,
-      "tendance": "changement de source (avant 1652 € sur Taoticket)",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Internet à bord"
@@ -230,9 +231,9 @@
       "prix_croisiere_2pers": 1208,
       "vol_inclus": true,
       "prix_vols_2pers": 326,
-      "vol_detail": "Aller Transavia ORY 17/10 07:00 → Rome FCO 09:05 (136 €) ; retour Transavia ATH 25/10 12:05 → ORY 14:35 (190 €), directs (eDreams, 326 € pour 2)",
+      "vol_detail": "Aller Transavia ORY 17/10 07:00 → Rome FCO 09:05 (136 €) ; retour Transavia ATH 25/10 12:05 → ORY 14:35 (190 €), directs (eDreams, 326 € pour 2) — vol relevé le 04/11/2026, non recherché à nouveau",
       "prix_total_2pers": 1654,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Activités à bord"
@@ -253,7 +254,7 @@
       "prix_croisiere_2pers": 1360,
       "vol_inclus": true,
       "prix_vols_2pers": 352,
-      "vol_detail": "Transavia ORY 18/10 13:05 → ATH 17:20 ; retour ATH 25/10 12:05 → ORY 14:35, direct (eDreams, 352 € pour 2)",
+      "vol_detail": "Transavia ORY 18/10 13:05 → ATH 17:20 ; retour ATH 25/10 12:05 → ORY 14:35, direct (eDreams, 352 € pour 2) — vol relevé le 04/11/2026, non recherché à nouveau",
       "prix_total_2pers": 1832,
       "tendance": "=",
       "inclus": [
@@ -276,9 +277,9 @@
       "prix_croisiere_2pers": 1350,
       "vol_inclus": true,
       "prix_vols_2pers": 390,
-      "vol_detail": "easyJet ORY 09/09 15:15 → ATH 19:25 ; retour easyJet ATH 17/09 11:15 → ORY 13:45, direct (eDreams, 390 € pour 2 ; Expedia ≈ 330 € pour 2 à titre de comparaison)",
+      "vol_detail": "easyJet ORY 09/09 15:15 → ATH 19:25 ; retour easyJet ATH 17/09 11:15 → ORY 13:45, direct (eDreams, 390 € pour 2 ; Expedia ≈ 330 € pour 2 à titre de comparaison) — vol relevé le 04/11/2026, non recherché à nouveau",
       "prix_total_2pers": 1860,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Activités à bord"
@@ -287,6 +288,28 @@
       "lien": "https://www.croisieres.fr/f-11478521-royal-caribbean-rhapsody-of-the-seas-iles-grecques/ODQ3NTM3ODIsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=174944376994&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/ret=2027-09-17;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=ORY;to.iata=ATH;dep=2027-09-09;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,U24879&segmentKey1=0,U24880",
       "lien_source": ""
+    },
+    {
+      "cabine": "Intérieure (prix « dès »)",
+      "lien_source": "",
+      "tendance": "NOUVEAU",
+      "compagnie": "Royal Caribbean",
+      "navire": "Explorer of the Seas",
+      "itineraire": "Civitavecchia (Rome), Naples, Messine, Santorin, Éphèse, Mykonos, Le Pirée",
+      "port_depart": "Civitavecchia – Rome (Italie)",
+      "date_depart": "2027-09-27",
+      "nuits": 7,
+      "prix_croisiere_2pers": 1434,
+      "vol_inclus": true,
+      "prix_vols_2pers": 316,
+      "vol_detail": "Aller Wizz Air ORY 26/09 09:55 → Rome FCO 12:00 (150 €) ; retour Transavia ATH 04/10 18:05 → ORY 20:35 (166 €), directs (eDreams, 316 € pour 2)",
+      "inclus": [
+        "Pension complète"
+      ],
+      "remarque": "Prix lu sur croisieres.fr : 717 €/pers. Croisière aller simple Rome → Le Pirée, itinéraire mixte (Italie + 2 escales grecques + Turquie). Nuit d'hôtel la veille à Rome estimée 120 € (incluse). Lien vol = aller ; retour sur eDreams : https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175124835681. Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-11478304-royal-caribbean-explorer-of-the-seas-mediterranee/ODQ3NTM1MDIsY2FiXzE=",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175114482178",
+      "prix_total_2pers": 1870
     },
     {
       "compagnie": "Royal Caribbean",
@@ -299,9 +322,9 @@
       "prix_croisiere_2pers": 1450,
       "vol_inclus": true,
       "prix_vols_2pers": 322,
-      "vol_detail": "easyJet ORY 16/09 15:15 → ATH 19:25 ; retour Transavia ATH 24/09 17:45 → ORY 20:15, direct (eDreams, 322 € pour 2)",
+      "vol_detail": "easyJet ORY 16/09 15:15 → ATH 19:25 ; retour Transavia ATH 24/09 17:45 → ORY 20:15, direct (eDreams, 322 € pour 2) — vol relevé le 04/11/2026, non recherché à nouveau",
       "prix_total_2pers": 1892,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Activités à bord"
@@ -322,9 +345,9 @@
       "prix_croisiere_2pers": 1220,
       "vol_inclus": true,
       "prix_vols_2pers": 588,
-      "vol_detail": "Aller Transavia ORY 28/10 06:10 → Istanbul IST 10:50 (368 €, eDreams) ; retour Athènes → Paris le 05/11 : vol estimé 220 € pour 2 (horaires de novembre 2027 pas encore en vente)",
+      "vol_detail": "Aller Transavia ORY 28/10 06:10 → Istanbul IST 10:50 (368 €, eDreams) ; retour Athènes → Paris le 05/11 : vol estimé 220 € pour 2 (horaires de novembre 2027 pas encore en vente) — vol relevé le 04/11/2026, non recherché à nouveau",
       "prix_total_2pers": 1928,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Activités à bord"
@@ -345,9 +368,9 @@
       "prix_croisiere_2pers": 1438,
       "vol_inclus": true,
       "prix_vols_2pers": 382,
-      "vol_detail": "Transavia ORY 05/09 19:30 → ATH 23:45 ; retour easyJet ATH 10/09 11:15 → ORY 13:45, direct (eDreams, 382 € pour 2)",
+      "vol_detail": "Transavia ORY 05/09 19:30 → ATH 23:45 ; retour easyJet ATH 10/09 11:15 → ORY 13:45, direct (eDreams, 382 € pour 2) — vol relevé le 04/11/2026, non recherché à nouveau",
       "prix_total_2pers": 1940,
-      "tendance": "changement de source (avant 1756 € sur Taoticket)",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Boissons aux repas",
@@ -369,9 +392,9 @@
       "prix_croisiere_2pers": 1408,
       "vol_inclus": true,
       "prix_vols_2pers": 414,
-      "vol_detail": "Transavia ORY 07/10 13:10 → ATH 17:25 ; retour ATH 15/10 17:45 → ORY 20:15, direct (eDreams, 414 € pour 2)",
+      "vol_detail": "Transavia ORY 07/10 13:10 → ATH 17:25 ; retour ATH 15/10 17:45 → ORY 20:15, direct (eDreams, 414 € pour 2) — vol relevé le 04/11/2026, non recherché à nouveau",
       "prix_total_2pers": 1942,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Activités à bord"
@@ -392,9 +415,9 @@
       "prix_croisiere_2pers": 1348,
       "vol_inclus": true,
       "prix_vols_2pers": 534,
-      "vol_detail": "Aller Transavia ORY 03/10 06:30 → ATH 10:45 (178 €) ; retour Tunisair Bologne BLQ 11/10 11:25 → ORY 19:05, 1 escale (356 €) ; prévoir le transfert Ravenne → Bologne (~1 h 15) (eDreams, 534 € pour 2)",
+      "vol_detail": "Aller Transavia ORY 03/10 06:30 → ATH 10:45 (178 €) ; retour Tunisair Bologne BLQ 11/10 11:25 → ORY 19:05, 1 escale (356 €) ; prévoir le transfert Ravenne → Bologne (~1 h 15) (eDreams, 534 € pour 2) — vol relevé le 04/11/2026, non recherché à nouveau",
       "prix_total_2pers": 2002,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Activités à bord"
@@ -440,9 +463,9 @@
       "prix_croisiere_2pers": 1278,
       "vol_inclus": true,
       "prix_vols_2pers": 634,
-      "vol_detail": "Aller Transavia ORY 30/10 13:00 → Istanbul IST 17:40 (414 €, eDreams) ; retour Athènes → Paris le 05/11 : vol estimé 220 € pour 2 (horaires de novembre 2027 pas encore en vente)",
+      "vol_detail": "Aller Transavia ORY 30/10 13:00 → Istanbul IST 17:40 (414 €, eDreams) ; retour Athènes → Paris le 05/11 : vol estimé 220 € pour 2 (horaires de novembre 2027 pas encore en vente) — vol relevé le 04/11/2026, non recherché à nouveau",
       "prix_total_2pers": 2032,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète"
       ],
@@ -450,6 +473,28 @@
       "lien": "https://www.croisieres.fr/f-11991342-costa-croisieres-costa-pacifica-iles-grecques/ODY0MDUxMDgsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=174950850680&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=ORY;to.iata=IST;dep=2027-10-30;collectionmethod=16&fareItineraryKey=6&segmentKey0=0,TO3288",
       "lien_source": ""
+    },
+    {
+      "cabine": "Intérieure (prix « dès »)",
+      "lien_source": "",
+      "tendance": "NOUVEAU",
+      "compagnie": "MSC Croisières",
+      "navire": "MSC Orchestra",
+      "itineraire": "Bari, Mykonos, Le Pirée, Katakolon, Céphalonie, Corfou, Bari",
+      "port_depart": "Bari (Italie)",
+      "date_depart": "2027-10-09",
+      "nuits": 7,
+      "prix_croisiere_2pers": 1590,
+      "vol_inclus": true,
+      "prix_vols_2pers": 328,
+      "vol_detail": "Transavia ORY 08/10 14:30 → Bari 16:55 ; retour Bari 16/10 16:55 → ORY 19:25, direct (eDreams, 328 € pour 2)",
+      "inclus": [
+        "Pension complète"
+      ],
+      "remarque": "Prix lu sur croisieres.fr : 795 €/pers. 5 escales grecques sur 6. Nuit d'hôtel la veille à Bari estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-11986299-msc-msc-orchestra-iles-grecques/ODYzOTMyMDAsY2FiXzE=",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175123137252",
+      "prix_total_2pers": 2038
     },
     {
       "compagnie": "MSC Croisières",
@@ -464,7 +509,7 @@
       "prix_vols_2pers": 400,
       "vol_detail": "Vol estimé : aller-retour Paris-Orly ↔ Athènes 24/10 → 01/11 pour 2 (Transavia direct habituellement ~350-430 € ; retour de novembre 2027 pas encore en vente)",
       "prix_total_2pers": 2050,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Internet à bord"
@@ -473,6 +518,28 @@
       "lien": "https://www.croisieres.fr/f-13146341-msc-msc-orchestra-grece/OTAwNzMxNDUsY2FiXzE=",
       "lien_vol": "",
       "lien_source": ""
+    },
+    {
+      "cabine": "Intérieure (prix « dès »)",
+      "lien_source": "",
+      "tendance": "NOUVEAU",
+      "compagnie": "MSC Croisières",
+      "navire": "MSC Orchestra",
+      "itineraire": "Bari, Santorin, Le Pirée, Katakolon, Céphalonie, Corfou, Bari",
+      "port_depart": "Bari (Italie)",
+      "date_depart": "2027-10-02",
+      "nuits": 7,
+      "prix_croisiere_2pers": 1690,
+      "vol_inclus": true,
+      "prix_vols_2pers": 350,
+      "vol_detail": "Transavia ORY 01/10 14:30 → Bari 16:55 ; retour Bari 09/10 16:55 → ORY 19:25, direct (eDreams, 350 € pour 2)",
+      "inclus": [
+        "Pension complète"
+      ],
+      "remarque": "Prix lu sur croisieres.fr : 845 €/pers. 5 escales grecques sur 6. Sur la page, choisir le départ du 2 oct. dans le calendrier. Nuit d'hôtel la veille à Bari estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-11606293-msc-msc-orchestra-iles-grecques/ODUxMTYxMTQsY2FiXzE=",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175122446058",
+      "prix_total_2pers": 2160
     },
     {
       "compagnie": "Royal Caribbean",
@@ -508,9 +575,9 @@
       "prix_croisiere_2pers": 1530,
       "vol_inclus": true,
       "prix_vols_2pers": 574,
-      "vol_detail": "Transavia ORY 22/10 09:10 → Bari 11:35 ; retour Bari 30/10 16:55 → ORY 19:25, direct (eDreams, 574 € pour 2)",
+      "vol_detail": "Transavia ORY 22/10 09:10 → Bari 11:35 ; retour Bari 30/10 16:55 → ORY 19:25, direct (eDreams, 574 € pour 2) — vol relevé le 04/11/2026, non recherché à nouveau",
       "prix_total_2pers": 2224,
-      "tendance": "NOUVEAU",
+      "tendance": "=",
       "inclus": [
         "Pension complète",
         "Internet à bord"
@@ -542,6 +609,77 @@
       "lien": "https://www.croisieres.fr/f-11986292-msc-msc-orchestra-iles-grecques/ODYzOTMxNTEsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=174840049618&searchMainProductTypeName=FLIGHT&utm_source=claude-app&deeplink=/results/ret=2027-10-12;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=ORY;to.iata=ATH;dep=2027-10-04;collectionmethod=16&fareItineraryKey=3&segmentKey0=0,TO3524&segmentKey1=0,TO3521",
       "lien_source": ""
+    },
+    {
+      "cabine": "Intérieure (prix « dès »)",
+      "lien_source": "",
+      "tendance": "NOUVEAU",
+      "compagnie": "Royal Caribbean",
+      "navire": "Rhapsody of the Seas",
+      "itineraire": "Le Pirée, Santorin, Rhodes, Bodrum, Éphèse, Mykonos, Istanbul",
+      "port_depart": "Le Pirée (Athènes)",
+      "date_depart": "2027-10-22",
+      "nuits": 7,
+      "prix_croisiere_2pers": 1538,
+      "vol_inclus": true,
+      "prix_vols_2pers": 612,
+      "vol_detail": "Aller Transavia ORY 21/10 13:10 → ATH 17:25 (240 €) ; retour Transavia Istanbul IST 29/10 18:40 → ORY 21:25 (372 €), directs (eDreams, 612 € pour 2)",
+      "inclus": [
+        "Pension complète"
+      ],
+      "remarque": "Prix lu sur croisieres.fr : 769 €/pers. Croisière aller simple Le Pirée → Istanbul, itinéraire mixte (3 escales grecques + Turquie). Nuit d'hôtel la veille estimée 120 € (incluse). Lien vol = aller ; retour sur eDreams : https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175106802680. Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-11478542-royal-caribbean-rhapsody-of-the-seas-mediterranee/ODQ3NTM4MTcsY2FiXzE=",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175115079228",
+      "prix_total_2pers": 2270
+    },
+    {
+      "cabine": "Intérieure (prix « dès »)",
+      "lien_source": "",
+      "tendance": "NOUVEAU",
+      "compagnie": "Celestyal Cruises",
+      "navire": "Celestyal Discovery",
+      "itineraire": "Lavrion, Mykonos, Kuşadası, Patmos, Rhodes, Héraklion, Santorin, Lavrion",
+      "port_depart": "Lavrion (Athènes)",
+      "date_depart": "2027-10-11",
+      "nuits": 4,
+      "prix_croisiere_2pers": 1878,
+      "vol_inclus": true,
+      "prix_vols_2pers": 366,
+      "vol_detail": "Transavia ORY 10/10 06:30 → ATH 10:45 ; retour ATH 15/10 18:45 → ORY 21:15, direct (eDreams, 366 € pour 2)",
+      "inclus": [
+        "Pension complète",
+        "Boissons incluses aux repas",
+        "Pourboires inclus"
+      ],
+      "remarque": "Prix lu sur croisieres.fr : 939 €/pers. Sur la page, choisir le départ du 11 oct. dans le calendrier. Nuit d'hôtel la veille à Athènes estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-7412330-celestyal-cruises-celestyal-discovery-mediterranee-et-ses-iles/ODg3NTM2MTEsY2FiXzE=",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175116462701",
+      "prix_total_2pers": 2364
+    },
+    {
+      "cabine": "Intérieure (prix « dès »)",
+      "lien_source": "",
+      "tendance": "NOUVEAU",
+      "compagnie": "Celestyal Cruises",
+      "navire": "Celestyal Journey",
+      "itineraire": "Le Pirée, Kuşadası, Rhodes, Agios Nikolaos (Crète), Santorin, Mykonos, Milos, Le Pirée",
+      "port_depart": "Le Pirée (Athènes)",
+      "date_depart": "2027-10-02",
+      "nuits": 7,
+      "prix_croisiere_2pers": 1858,
+      "vol_inclus": true,
+      "prix_vols_2pers": 436,
+      "vol_detail": "Transavia ORY 01/10 12:40 → ATH 16:55 ; retour ATH 09/10 14:50 → ORY 17:20, direct (eDreams, 436 € pour 2)",
+      "inclus": [
+        "Pension complète",
+        "Boissons incluses",
+        "Wifi inclus",
+        "Pourboires inclus"
+      ],
+      "remarque": "Prix lu sur croisieres.fr : 929 €/pers. Itinéraire très grec (6 escales grecques sur 7). Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-8201030-celestyal-cruises-celestyal-journey-iles-grecques/ODI1ODkzMDksY2FiXzE=",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175114081248",
+      "prix_total_2pers": 2414
     }
   ]
 }
