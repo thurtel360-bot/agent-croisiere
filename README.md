@@ -1,7 +1,7 @@
 # Agent croisière — veille îles grecques
 
 Site statique qui affiche les résultats de la veille automatique : meilleures croisières dans les îles grecques, **septembre–octobre 2027**, **2 adultes**, **budget max 3 000 € tout compris**.
-Vols depuis Paris (CDG/ORY/BVA) inclus quand le port de départ n'est ni en France ni en Italie du Nord ; sinon, pas de vol.
+Vol aller-retour toujours inclus, uniquement depuis Paris-Charles-de-Gaulle (CDG) ou Beauvais (BVA) — Orly exclu (règle du 05/11/2026 ; avant, vols depuis CDG/ORY/BVA et aucun vol pour les ports de France et d'Italie du Nord).
 
 - `index.html` : la page (aucune dépendance, lit les fichiers de `data/`).
 - `data/latest.json` : résultat de la dernière veille.
