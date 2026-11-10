@@ -1,42 +1,19 @@
 {
-  "date_veille": "2026-11-09T06:16:47+00:00",
-  "resume": "Meilleure offre : Royal Caribbean – Explorer of the Seas au départ de Civitavecchia – Rome (Italie) le 18/10/2027, 7 nuits, 1786 € pour 2 vols depuis Paris compris. 49 offres sous 3 000 € ; aucune alerte aujourd'hui (la Celestyal Journey du 16/10, meilleure offre du 06/11, remonte de 559 à 749 €/pers).",
+  "date_veille": "2026-11-10T06:05:49+00:00",
+  "resume": "Meilleure offre : MSC Croisières – MSC Lirica au départ de Venise (Italie) le 02/10/2027, 7 nuits, 1800 € pour 2 vols depuis Paris compris. 50 offres sous 3 000 € ; aucune alerte aujourd'hui (hausses sur Explorer of the Seas : +136 € le 18/10 au départ de Rome, +132 € le 04/10 au départ du Pirée).",
   "alertes": [],
   "notes": [
-    "Source principale : croisieres.fr (en français, prix en euros par personne). Balayage complet de septembre 2027 (130 croisières) et d'octobre 2027 (138 croisières) sur la page « Iles Grecques », filtre Mois, toutes les cartes chargées. Chaque lien « Voir l'offre » ouvert et vérifié (pas de redirection, navire affiché), prix lu sur la page de l'offre (date principale ou calendrier des départs ; attente de 30 s : avant, la page affichait parfois « Complet » à tort).",
+    "Source principale : croisieres.fr (en français, prix en euros par personne). Balayage complet de septembre 2027 (130 croisières) et d'octobre 2027 (138 croisières) sur la page « Iles Grecques », filtre Mois, toutes les cartes chargées. Chaque lien « Voir l'offre » ouvert et vérifié le 10/11/2026 (pas de redirection, navire affiché), prix lu sur la page de l'offre (date principale ou bloc « Meilleur prix » ; attente de 30 à 45 s : avant, la page affiche parfois « Complet » à tort).",
     "Compagnies vues sur croisieres.fr pour ces mois : MSC, Costa, Royal Caribbean, Celestyal, Norwegian, Celebrity, Princess, Virgin Voyages, Carnival, Cunard, Oceania, Azamara, Holland America, Star Clippers, Croisieurope, Seabourn, Explora, Silversea, Regent Seven Seas, Ponant, Four Seasons, Ritz-Carlton, Ambassador. Retenues sous 3 000 € pour 2 avec vols : MSC, Royal Caribbean, Celestyal, Costa, Celebrity, Carnival, Norwegian, Virgin Voyages.",
-    "Nouveautés du 09/11 : Brilliance of the Seas Ravenne 04/09 (1 836 €), Costa Deliziosa Marghera 18/09, Scarlet Lady (Virgin Voyages) Le Pirée 10/10, Celebrity Eclipse Ravenne → Le Pirée 01/10.",
+    "Nouveautés du 10/11 : MSC Lirica au départ d'Ancône le 24/09 (2 124 € pour 2). Hausses : Explorer of the Seas Rome 18/10 (612 → 680 €/pers), Le Pirée 04/10 (680 → 746 €/pers), Rome 27/09 (908 → 1 002 €/pers). Baisses : Brilliance of the Seas 09/10 (685 → 678 €/pers) et 16/10 (747 → 739 €/pers).",
     "Hors budget (total > 3 000 € pour 2 avec vols et hôtel) : Celebrity Infinity 16/10 (≈ 3 182 €), Scarlet Lady 03/10 (≈ 3 188 €), Celebrity Eclipse Le Pirée → Ravenne 11/10 (croisière 2 664 € + hôtel, vols ≥ 270 € estimés), Sun Princess, Cunard et tout le luxe (Oceania, Azamara, Seabourn, Explora, Silversea, Regent, Ponant, Four Seasons, Ritz-Carlton, Star Clippers).",
-    "Non trouvées sur les sites français dans les critères : Marella (vendue au Royaume-Uni uniquement), Variety Cruises et Windstar (seulement sites anglophones, ex. Taoticket), Viking. Recherches web faites le 09/11/2026.",
+    "Non trouvées sur les sites français dans les critères : Marella (vendue au Royaume-Uni uniquement), Variety Cruises et Windstar (seulement sites anglophones, ex. Taoticket ; petits navires, hors budget avec vols), Viking. Recherches web faites le 10/11/2026.",
     "Écartés : MSC Divina et Odyssey of the Seas au départ de Rome/Naples (2 escales grecques sur 4), MSC Splendida (2 sur 6), Costa Serena (2 sur 5), Norwegian Gem 12/09, 26/09 et 03/10, Rhapsody of the Seas 03/09 et 15/10 (Chypre/Égypte), Costa Pacifica 01/10-17/10 (escale « Al Fujairah » incohérente), Explorer of the Seas Le Pirée → Barcelone 25/10, Scarlet Lady 17/10 et 26/09, Sun Princess, Queen Elizabeth, croisières de 3 nuits (Celestyal Discovery « 4 j »). Variantes au départ de Kuşadası ou Istanbul d'une même croisière non dupliquées.",
-    "Vols : vol systématique depuis Paris-CDG ou Beauvais, Orly exclu (règle du 05/11/2026). Vols des offres déjà connues repris du relevé du 06/11/2026 (tous depuis CDG/BVA) ; vols des nouvelles offres recherchés le 09/11/2026 sur eDreams France (2 adultes), aucun résultat via Orly retenu. Venise/Marghera : vols Ryanair vers Trévise (TSF). Retours du 05/11/2027 pas encore en vente : estimés (« vol estimé »). Expedia (comparaison) refuse les dates à plus de 330 jours : pas de comparaison possible. Nuit d'hôtel la veille estimée 120 € pour chaque offre.",
+    "Vols : vol systématique depuis Paris-CDG ou Beauvais, Orly exclu (règle du 05/11/2026). Vols des offres déjà connues repris des relevés du 06/11 et du 09/11/2026 (tous depuis CDG/BVA) ; vol de la nouvelle offre (Ancône 24/09) recherché le 10/11/2026 sur eDreams France (2 adultes), résultats via Orly écartés. Venise/Marghera : vols Ryanair vers Trévise (TSF). Retours du 05/11/2027 pas encore en vente : estimés (« vol estimé »). Expedia (comparaison) refuse les dates à plus de 330 jours : pas de comparaison possible. Nuit d'hôtel la veille estimée 120 € pour chaque offre.",
     "Les prix croisieres.fr ne précisent pas si les taxes portuaires sont incluses : à vérifier avec « Calculez votre devis ». Pour Celebrity et Virgin, une remise « 2nd passager » est affichée : vérifier si le prix par personne en tient compte.",
     "Rien n'a été réservé. Les prix sont relevés au moment de la recherche et peuvent changer."
   ],
   "offres": [
-    {
-      "compagnie": "Royal Caribbean",
-      "navire": "Explorer of the Seas",
-      "itineraire": "Civitavecchia (Rome), Katakolon, La Canée (Crète), Éphèse, Mykonos, Santorin, Le Pirée (Athènes)",
-      "port_depart": "Civitavecchia – Rome (Italie)",
-      "date_depart": "2027-10-18",
-      "nuits": 7,
-      "cabine": "Intérieure (prix « dès »)",
-      "prix_croisiere_2pers": 1224,
-      "vol_inclus": true,
-      "prix_vols_2pers": 442,
-      "vol_detail": "Ryanair BVA 17/10 22:55 → FCO 01:00 (arrivée le 18/10), direct (150 €) ; ITA Airways ATH 25/10 13:20 → CDG 17:20, 1 escale (292 €) — total vols 442 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
-      "prix_total_2pers": 1786,
-      "tendance": "= +16 €",
-      "inclus": [
-        "Pension complète",
-        "Activités à bord incluses"
-      ],
-      "remarque": "Prix lu sur croisieres.fr : 612 €/pers. Croisière aller simple Rome → Le Pirée. Vol aller Beauvais → Rome arrivant à 01:00 le 18/10 (nuit d'hôtel comptée) ; Fiumicino → Civitavecchia ≈ 1 h. Nuit d'hôtel la veille estimée 120 € (incluse). Vol retour sur eDreams : https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175262702600&searchMainProductTypeName=FLIGHT&utm_campaign=ATH-CDG&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=ATH;to.iata=CDG;dep=2027-10-25;collectionmethod=16&fareItineraryKey=4&segmentKey0=0,AZ715,AZ324 . Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
-      "lien": "https://www.croisieres.fr/f-11478339-royal-caribbean-explorer-of-the-seas-iles-grecques/ODQ3NTM1MzcsY2FiXzE=",
-      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175269236088&searchMainProductTypeName=FLIGHT&utm_campaign=BVA-FCO&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=BVA;to.iata=FCO;dep=2027-10-17;collectionmethod=16&fareItineraryKey=1&segmentKey0=0,FR200",
-      "lien_source": ""
-    },
     {
       "compagnie": "MSC Croisières",
       "navire": "MSC Lirica",
@@ -55,32 +32,9 @@
         "Pension complète",
         "Internet à bord"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 715 €/pers. Itinéraire mixte (2 escales grecques sur 4). Vol vers Trévise (TSF), ≈ 40 min de Venise. Sur la page, choisir le départ du 2 oct. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 715 €/pers. Sur la page, choisir le départ du 2 oct. dans le calendrier. Itinéraire mixte (2 escales grecques sur 4). Vol vers Trévise (TSF), ≈ 40 min de Venise. Sur la page, choisir le départ du 2 oct. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-10843473-msc-msc-lirica-adriatique/ODI4MDkyMzEsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175261775900&searchMainProductTypeName=FLIGHT&utm_campaign=BVA-VCE&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-10-09;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=BVA;to.iata=VCE;dep=2027-10-01;collectionmethod=16&fareItineraryKey=6&segmentKey0=0,FR1540&segmentKey1=0,FR1539",
-      "lien_source": ""
-    },
-    {
-      "compagnie": "Royal Caribbean",
-      "navire": "Explorer of the Seas",
-      "itineraire": "Le Pirée (Athènes), Rhodes, Mykonos, Santorin, Dubrovnik, Split, Ravenne",
-      "port_depart": "Le Pirée (Athènes)",
-      "date_depart": "2027-10-04",
-      "nuits": 7,
-      "cabine": "Intérieure (prix « dès »)",
-      "prix_croisiere_2pers": 1360,
-      "vol_inclus": true,
-      "prix_vols_2pers": 346,
-      "vol_detail": "Aegean Airlines CDG 03/10 11:05 → ATH 15:15, direct (218 €) ; Ryanair BLQ 11/10 05:45 → BVA 07:40, direct (128 €) — total vols 346 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
-      "prix_total_2pers": 1826,
-      "tendance": "= +12 €",
-      "inclus": [
-        "Pension complète",
-        "Activités à bord incluses"
-      ],
-      "remarque": "Prix lu sur croisieres.fr : 680 €/pers. Croisière aller simple Le Pirée → Ravenne ; retour depuis Bologne (≈ 1 h 15 de Ravenne, vol à 05:45 : prévoir une nuit sur place, non comptée). Nuit d'hôtel la veille estimée 120 € (incluse). Vol retour sur eDreams : https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175258499414&searchMainProductTypeName=FLIGHT&utm_campaign=BLQ-BVA&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=BLQ;to.iata=BVA;dep=2027-10-11;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,FR3214 . Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
-      "lien": "https://www.croisieres.fr/f-11478332-royal-caribbean-explorer-of-the-seas-iles-grecques/ODQ3NTM1MzAsY2FiXzE=",
-      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175253210729&searchMainProductTypeName=FLIGHT&utm_campaign=CDG-ATH&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=CDG;to.iata=ATH;dep=2027-10-03;collectionmethod=16&fareItineraryKey=2&segmentKey0=0,A3611",
       "lien_source": ""
     },
     {
@@ -91,17 +45,17 @@
       "date_depart": "2027-09-04",
       "nuits": 7,
       "cabine": "Intérieure (prix « dès »)",
-      "prix_croisiere_2pers": 1358,
+      "prix_croisiere_2pers": 1362,
       "vol_inclus": true,
       "prix_vols_2pers": 358,
       "vol_detail": "Ryanair BVA 03/09 19:55 → Bologne BLQ 21:35 ; retour Ryanair BLQ 11/09 11:05 → BVA 13:00, direct (Bologne → Ravenne ≈ 1 h 15) (358 €) — total vols 358 € pour 2 (eDreams France, 2 adultes, relevé le 09/11/2026)",
-      "prix_total_2pers": 1836,
-      "tendance": "NOUVEAU",
+      "prix_total_2pers": 1840,
+      "tendance": "= +4 €",
       "inclus": [
         "Pension complète",
         "Activités à bord incluses"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 679 €/pers. Aéroport Bologne (BLQ), puis ≈ 1 h 15 jusqu'à Ravenne. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 681 €/pers. Aéroport Bologne (BLQ), puis ≈ 1 h 15 jusqu'à Ravenne. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-11419645-royal-caribbean-brilliance-of-the-seas-iles-grecques/ODQ3NTMxNDUsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175641004985&searchMainProductTypeName=FLIGHT&utm_campaign=BVA-BLQ&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-09-11;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=BVA;to.iata=BLQ;dep=2027-09-03;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,FR3215&segmentKey1=0,FR3214",
       "lien_source": ""
@@ -114,17 +68,17 @@
       "date_depart": "2027-10-08",
       "nuits": 7,
       "cabine": "Intérieure (prix « dès »)",
-      "prix_croisiere_2pers": 1328,
+      "prix_croisiere_2pers": 1332,
       "vol_inclus": true,
       "prix_vols_2pers": 436,
       "vol_detail": "Aegean Airlines CDG 07/10 11:05 → ATH 15:15 ; retour Sky Express ATH 15/10 10:40 → CDG 13:15, direct (436 €) — total vols 436 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
-      "prix_total_2pers": 1884,
-      "tendance": "▼ -80 € (-4 %) (croisière -80 €)",
+      "prix_total_2pers": 1888,
+      "tendance": "= +4 €",
       "inclus": [
         "Pension complète",
         "Activités à bord incluses"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 664 €/pers. Itinéraire mixte (Grèce + Turquie). Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 666 €/pers. Itinéraire mixte (Grèce + Turquie). Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-11478535-royal-caribbean-rhapsody-of-the-seas-mediterranee/ODQ3NTM4MTAsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175265281852&searchMainProductTypeName=FLIGHT&utm_campaign=CDG-ATH&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-10-15;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=CDG;to.iata=ATH;dep=2027-10-07;collectionmethod=16&fareItineraryKey=12&segmentKey0=0,A3611&segmentKey1=0,GQ900",
       "lien_source": ""
@@ -147,9 +101,55 @@
         "Pension complète",
         "Internet à bord"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 765 €/pers. Itinéraire mixte (2 escales grecques sur 4). Vol vers Trévise (TSF), ≈ 40 min de Venise. Sur la page, choisir le départ du 25 sept. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 765 €/pers. Sur la page, choisir le départ du 25 sept. dans le calendrier. Itinéraire mixte (2 escales grecques sur 4). Vol vers Trévise (TSF), ≈ 40 min de Venise. Sur la page, choisir le départ du 25 sept. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-10843473-msc-msc-lirica-adriatique/ODI4MDkyMzEsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175267446871&searchMainProductTypeName=FLIGHT&utm_campaign=BVA-VCE&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-10-02;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=BVA;to.iata=VCE;dep=2027-09-24;collectionmethod=16&fareItineraryKey=1&segmentKey0=0,FR1540&segmentKey1=0,FR1539",
+      "lien_source": ""
+    },
+    {
+      "compagnie": "Royal Caribbean",
+      "navire": "Explorer of the Seas",
+      "itineraire": "Civitavecchia (Rome), Katakolon, La Canée (Crète), Éphèse, Mykonos, Santorin, Le Pirée (Athènes)",
+      "port_depart": "Civitavecchia – Rome (Italie)",
+      "date_depart": "2027-10-18",
+      "nuits": 7,
+      "cabine": "Intérieure (prix « dès »)",
+      "prix_croisiere_2pers": 1360,
+      "vol_inclus": true,
+      "prix_vols_2pers": 442,
+      "vol_detail": "Ryanair BVA 17/10 22:55 → FCO 01:00 (arrivée le 18/10), direct (150 €) ; ITA Airways ATH 25/10 13:20 → CDG 17:20, 1 escale (292 €) — total vols 442 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
+      "prix_total_2pers": 1922,
+      "tendance": "▲ +136 € (+8 %) (croisière +136 €)",
+      "inclus": [
+        "Pension complète",
+        "Activités à bord incluses"
+      ],
+      "remarque": "Prix lu sur croisieres.fr : 680 €/pers. Croisière aller simple Rome → Le Pirée. Vol aller Beauvais → Rome arrivant à 01:00 le 18/10 (nuit d'hôtel comptée) ; Fiumicino → Civitavecchia ≈ 1 h. Nuit d'hôtel la veille estimée 120 € (incluse). Vol retour sur eDreams : https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175262702600&searchMainProductTypeName=FLIGHT&utm_campaign=ATH-CDG&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=ATH;to.iata=CDG;dep=2027-10-25;collectionmethod=16&fareItineraryKey=4&segmentKey0=0,AZ715,AZ324 . Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-11478339-royal-caribbean-explorer-of-the-seas-iles-grecques/ODQ3NTM1MzcsY2FiXzE=",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175269236088&searchMainProductTypeName=FLIGHT&utm_campaign=BVA-FCO&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=BVA;to.iata=FCO;dep=2027-10-17;collectionmethod=16&fareItineraryKey=1&segmentKey0=0,FR200",
+      "lien_source": ""
+    },
+    {
+      "compagnie": "Royal Caribbean",
+      "navire": "Brilliance of the Seas",
+      "itineraire": "Ravenne, Santorin, Le Pirée (Athènes), Mykonos, Split, Ravenne",
+      "port_depart": "Ravenne (Italie)",
+      "date_depart": "2027-10-09",
+      "nuits": 7,
+      "cabine": "Intérieure (prix « dès »)",
+      "prix_croisiere_2pers": 1356,
+      "vol_inclus": true,
+      "prix_vols_2pers": 446,
+      "vol_detail": "ITA Airways CDG 08/10 18:15 → BLQ 22:45 (1 escale) ; retour Ryanair BLQ 16/10 11:05 → BVA 13:00, direct (446 €) — total vols 446 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
+      "prix_total_2pers": 1922,
+      "tendance": "= -14 €",
+      "inclus": [
+        "Pension complète",
+        "Activités à bord incluses"
+      ],
+      "remarque": "Prix lu sur croisieres.fr : 678 €/pers. Aéroport Bologne (BLQ), puis ≈ 1 h 15 jusqu'à Ravenne. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-11478199-royal-caribbean-brilliance-of-the-seas-iles-grecques/ODQ3NTMyMzYsY2FiXzE=",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175262765984&searchMainProductTypeName=FLIGHT&utm_campaign=BVA-BLQ&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-10-16;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=BVA;to.iata=BLQ;dep=2027-10-08;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,AZ325,AZ1321&segmentKey1=0,FR3214",
       "lien_source": ""
     },
     {
@@ -165,7 +165,7 @@
       "prix_vols_2pers": 444,
       "vol_detail": "ITA Airways CDG 17/09 06:10 → BLQ 10:15 (1 escale) ; retour Ryanair BLQ 25/09 11:05 → BVA 13:00, direct (444 €) — total vols 444 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
       "prix_total_2pers": 1924,
-      "tendance": "= +16 €",
+      "tendance": "= +0 €",
       "inclus": [
         "Pension complète",
         "Activités à bord incluses"
@@ -173,29 +173,6 @@
       "remarque": "Prix lu sur croisieres.fr : 680 €/pers. Aéroport Bologne (BLQ), puis ≈ 1 h 15 jusqu'à Ravenne. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-11419645-royal-caribbean-brilliance-of-the-seas-iles-grecques/ODQ3NTMxNTIsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175258899258&searchMainProductTypeName=FLIGHT&utm_campaign=BVA-BLQ&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-09-25;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=BVA;to.iata=BLQ;dep=2027-09-17;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,AZ317,AZ1311&segmentKey1=0,FR3214",
-      "lien_source": ""
-    },
-    {
-      "compagnie": "Royal Caribbean",
-      "navire": "Brilliance of the Seas",
-      "itineraire": "Ravenne, Santorin, Le Pirée (Athènes), Mykonos, Split, Ravenne",
-      "port_depart": "Ravenne (Italie)",
-      "date_depart": "2027-10-09",
-      "nuits": 7,
-      "cabine": "Intérieure (prix « dès »)",
-      "prix_croisiere_2pers": 1370,
-      "vol_inclus": true,
-      "prix_vols_2pers": 446,
-      "vol_detail": "ITA Airways CDG 08/10 18:15 → BLQ 22:45 (1 escale) ; retour Ryanair BLQ 16/10 11:05 → BVA 13:00, direct (446 €) — total vols 446 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
-      "prix_total_2pers": 1936,
-      "tendance": "▼ -66 € (-3 %) (croisière -66 €)",
-      "inclus": [
-        "Pension complète",
-        "Activités à bord incluses"
-      ],
-      "remarque": "Prix lu sur croisieres.fr : 685 €/pers. Aéroport Bologne (BLQ), puis ≈ 1 h 15 jusqu'à Ravenne. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
-      "lien": "https://www.croisieres.fr/f-11478199-royal-caribbean-brilliance-of-the-seas-iles-grecques/ODQ3NTMyMzYsY2FiXzE=",
-      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175262765984&searchMainProductTypeName=FLIGHT&utm_campaign=BVA-BLQ&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-10-16;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=BVA;to.iata=BLQ;dep=2027-10-08;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,AZ325,AZ1321&segmentKey1=0,FR3214",
       "lien_source": ""
     },
     {
@@ -216,9 +193,32 @@
         "Pension complète",
         "Internet à bord"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 815 €/pers. Itinéraire mixte (2 escales grecques sur 4). Vol vers Trévise (TSF), ≈ 40 min de Venise. Sur la page, choisir le départ du 18 sept. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 815 €/pers. Sur la page, choisir le départ du 18 sept. dans le calendrier. Itinéraire mixte (2 escales grecques sur 4). Vol vers Trévise (TSF), ≈ 40 min de Venise. Sur la page, choisir le départ du 18 sept. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-10843473-msc-msc-lirica-adriatique/ODI4MDkyMzEsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175264296421&searchMainProductTypeName=FLIGHT&utm_campaign=BVA-VCE&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-09-25;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=BVA;to.iata=VCE;dep=2027-09-17;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,FR1540&segmentKey1=0,FR1539",
+      "lien_source": ""
+    },
+    {
+      "compagnie": "Royal Caribbean",
+      "navire": "Explorer of the Seas",
+      "itineraire": "Le Pirée (Athènes), Rhodes, Mykonos, Santorin, Dubrovnik, Split, Ravenne",
+      "port_depart": "Le Pirée (Athènes)",
+      "date_depart": "2027-10-04",
+      "nuits": 7,
+      "cabine": "Intérieure (prix « dès »)",
+      "prix_croisiere_2pers": 1492,
+      "vol_inclus": true,
+      "prix_vols_2pers": 346,
+      "vol_detail": "Aegean Airlines CDG 03/10 11:05 → ATH 15:15, direct (218 €) ; Ryanair BLQ 11/10 05:45 → BVA 07:40, direct (128 €) — total vols 346 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
+      "prix_total_2pers": 1958,
+      "tendance": "▲ +132 € (+7 %) (croisière +132 €)",
+      "inclus": [
+        "Pension complète",
+        "Activités à bord incluses"
+      ],
+      "remarque": "Prix lu sur croisieres.fr : 746 €/pers. Croisière aller simple Le Pirée → Ravenne ; retour depuis Bologne (≈ 1 h 15 de Ravenne, vol à 05:45 : prévoir une nuit sur place, non comptée). Nuit d'hôtel la veille estimée 120 € (incluse). Vol retour sur eDreams : https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175258499414&searchMainProductTypeName=FLIGHT&utm_campaign=BLQ-BVA&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=BLQ;to.iata=BVA;dep=2027-10-11;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,FR3214 . Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-11478332-royal-caribbean-explorer-of-the-seas-iles-grecques/ODQ3NTM1MzAsY2FiXzE=",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175253210729&searchMainProductTypeName=FLIGHT&utm_campaign=CDG-ATH&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=CDG;to.iata=ATH;dep=2027-10-03;collectionmethod=16&fareItineraryKey=2&segmentKey0=0,A3611",
       "lien_source": ""
     },
     {
@@ -229,17 +229,17 @@
       "date_depart": "2027-09-10",
       "nuits": 7,
       "cabine": "Intérieure (prix « dès »)",
-      "prix_croisiere_2pers": 1374,
+      "prix_croisiere_2pers": 1378,
       "vol_inclus": true,
       "prix_vols_2pers": 466,
       "vol_detail": "Aegean Airlines CDG 09/09 11:05 → ATH 15:15 ; retour Sky Express ATH 17/09 19:00 → CDG 21:35, direct (466 €) — total vols 466 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
-      "prix_total_2pers": 1960,
-      "tendance": "▲ +24 € (+1 %) (croisière +24 €)",
+      "prix_total_2pers": 1964,
+      "tendance": "= +4 €",
       "inclus": [
         "Pension complète",
         "Activités à bord incluses"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 687 €/pers. Sur la page, choisir le départ du 10 sept. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 689 €/pers. Sur la page, choisir le départ du 10 sept. dans le calendrier. Sur la page, choisir le départ du 10 sept. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-11478521-royal-caribbean-rhapsody-of-the-seas-iles-grecques/ODQ3NTM3ODIsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175268338388&searchMainProductTypeName=FLIGHT&utm_campaign=CDG-ATH&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-09-17;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=CDG;to.iata=ATH;dep=2027-09-09;collectionmethod=16&fareItineraryKey=32&segmentKey0=0,A3611&segmentKey1=0,GQ904",
       "lien_source": ""
@@ -280,7 +280,7 @@
       "prix_vols_2pers": 424,
       "vol_detail": "Sky Express CDG 15/10 14:15 → ATH 18:25 ; retour Sky Express ATH 22/10 10:40 → CDG 13:15, direct (424 €) — total vols 424 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
       "prix_total_2pers": 2042,
-      "tendance": "▲ +380 € (+23 %) (croisière +380 €)",
+      "tendance": "= +0 €",
       "inclus": [
         "Pension complète",
         "Pourboires inclus",
@@ -310,7 +310,7 @@
         "Pourboires inclus",
         "Boissons aux repas"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 719 €/pers. Sur la page, choisir le départ du 6 sept. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 719 €/pers. Sur la page, choisir le départ du 6 sept. dans le calendrier. Sur la page, choisir le départ du 6 sept. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-7412330-celestyal-cruises-celestyal-discovery-mediterranee-et-ses-iles/ODg3NTM2MTEsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175261286274&searchMainProductTypeName=FLIGHT&utm_campaign=CDG-ATH&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-09-10;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=CDG;to.iata=ATH;dep=2027-09-05;collectionmethod=16&fareItineraryKey=36&segmentKey0=0,A3611&segmentKey1=0,A3614",
       "lien_source": ""
@@ -328,12 +328,12 @@
       "prix_vols_2pers": 444,
       "vol_detail": "ITA Airways CDG 24/09 06:10 → BLQ 10:15 (1 escale) ; retour Ryanair BLQ 02/10 11:05 → BVA 13:00, direct (444 €) — total vols 444 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
       "prix_total_2pers": 2048,
-      "tendance": "= +14 €",
+      "tendance": "= +0 €",
       "inclus": [
         "Pension complète",
         "Activités à bord incluses"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 742 €/pers. Aéroport Bologne (BLQ), puis ≈ 1 h 15 jusqu'à Ravenne. Sur la page, choisir le départ du 25 sept. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 742 €/pers. Sur la page, choisir le départ du 25 sept. dans le calendrier. Aéroport Bologne (BLQ), puis ≈ 1 h 15 jusqu'à Ravenne. Sur la page, choisir le départ du 25 sept. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-11419645-royal-caribbean-brilliance-of-the-seas-iles-grecques/ODQ3NTMxNTIsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175267861319&searchMainProductTypeName=FLIGHT&utm_campaign=BVA-BLQ&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-10-02;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=BVA;to.iata=BLQ;dep=2027-09-24;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,AZ317,AZ1311&segmentKey1=0,FR3214",
       "lien_source": ""
@@ -346,17 +346,17 @@
       "date_depart": "2027-10-29",
       "nuits": 7,
       "cabine": "Intérieure (prix « dès »)",
-      "prix_croisiere_2pers": 1232,
+      "prix_croisiere_2pers": 1236,
       "vol_inclus": true,
       "prix_vols_2pers": 704,
       "vol_detail": "Air France CDG 28/10 12:25 → Istanbul IST 17:00, direct (454 €) ; retour Athènes → Paris-CDG le 05/11 : vol estimé 250 € pour 2 (novembre 2027 pas encore en vente) — total vols 704 € pour 2 (vol estimé)",
-      "prix_total_2pers": 2056,
-      "tendance": "= +12 €",
+      "prix_total_2pers": 2060,
+      "tendance": "= +4 €",
       "inclus": [
         "Pension complète",
         "Activités à bord incluses"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 616 €/pers. Croisière aller simple Istanbul → Le Pirée. Vol retour estimé. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 618 €/pers. Croisière aller simple Istanbul → Le Pirée. Vol retour estimé. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-11478549-royal-caribbean-rhapsody-of-the-seas-iles-grecques/ODQ3NTM4MjQsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175264396665&searchMainProductTypeName=FLIGHT&utm_campaign=CDG-IST&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=CDG;to.iata=IST;dep=2027-10-28;collectionmethod=16&fareItineraryKey=2&segmentKey0=0,AF1390",
       "lien_source": ""
@@ -369,17 +369,17 @@
       "date_depart": "2027-10-16",
       "nuits": 7,
       "cabine": "Intérieure (prix « dès »)",
-      "prix_croisiere_2pers": 1494,
+      "prix_croisiere_2pers": 1478,
       "vol_inclus": true,
       "prix_vols_2pers": 462,
       "vol_detail": "ITA Airways CDG 15/10 18:15 → BLQ 22:45 (1 escale) ; retour Ryanair BLQ 23/10 11:05 → BVA 13:00, direct (462 €) — total vols 462 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
-      "prix_total_2pers": 2076,
-      "tendance": "= +16 €",
+      "prix_total_2pers": 2060,
+      "tendance": "= -16 €",
       "inclus": [
         "Pension complète",
         "Activités à bord incluses"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 747 €/pers. Aéroport Bologne (BLQ), puis ≈ 1 h 15 jusqu'à Ravenne. Sur la page, choisir le départ du 16 oct. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 739 €/pers. Sur la page, choisir le départ du 16 oct. dans le calendrier. Aéroport Bologne (BLQ), puis ≈ 1 h 15 jusqu'à Ravenne. Sur la page, choisir le départ du 16 oct. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-11419645-royal-caribbean-brilliance-of-the-seas-iles-grecques/ODQ3NTMxNTIsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175268339023&searchMainProductTypeName=FLIGHT&utm_campaign=BVA-BLQ&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-10-23;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=BVA;to.iata=BLQ;dep=2027-10-15;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,AZ325,AZ1321&segmentKey1=0,FR3214",
       "lien_source": ""
@@ -392,17 +392,17 @@
       "date_depart": "2027-10-22",
       "nuits": 7,
       "cabine": "Intérieure (prix « dès »)",
-      "prix_croisiere_2pers": 1440,
+      "prix_croisiere_2pers": 1444,
       "vol_inclus": true,
       "prix_vols_2pers": 534,
       "vol_detail": "Sky Express CDG 21/10 14:15 → ATH 18:25, direct (300 €) ; Tarom IST 29/10 09:35 → CDG 15:30, 1 escale (234 €) — total vols 534 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
-      "prix_total_2pers": 2094,
-      "tendance": "▼ -98 € (-4 %) (croisière -98 €)",
+      "prix_total_2pers": 2098,
+      "tendance": "= +4 €",
       "inclus": [
         "Pension complète",
         "Activités à bord incluses"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 720 €/pers. Croisière aller simple Le Pirée → Istanbul, itinéraire mixte (3 escales grecques + Turquie). Nuit d'hôtel la veille estimée 120 € (incluse). Vol retour sur eDreams : https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175266447843&searchMainProductTypeName=FLIGHT&utm_campaign=IST-CDG&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=IST;to.iata=CDG;dep=2027-10-29;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,RO262,RO383 . Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 722 €/pers. Croisière aller simple Le Pirée → Istanbul, itinéraire mixte (3 escales grecques + Turquie). Nuit d'hôtel la veille estimée 120 € (incluse). Vol retour sur eDreams : https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175266447843&searchMainProductTypeName=FLIGHT&utm_campaign=IST-CDG&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=IST;to.iata=CDG;dep=2027-10-29;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,RO262,RO383 . Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-11478542-royal-caribbean-rhapsody-of-the-seas-mediterranee/ODQ3NTM4MTcsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175261286049&searchMainProductTypeName=FLIGHT&utm_campaign=CDG-ATH&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=CDG;to.iata=ATH;dep=2027-10-21;collectionmethod=16&fareItineraryKey=3&segmentKey0=0,GQ901",
       "lien_source": ""
@@ -425,7 +425,7 @@
         "Pension complète",
         "Internet à bord"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 765 €/pers. Même croisière que Venise, embarquement à Ancône. Itinéraire mixte (2 escales grecques sur 4). Vol estimé. Sur la page, choisir le départ du 1er oct. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 765 €/pers. Sur la page, choisir le départ du 1 oct. dans le calendrier. Même croisière que Venise, embarquement à Ancône. Itinéraire mixte (2 escales grecques sur 4). Vol estimé. Sur la page, choisir le départ du 1er oct. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-10843480-msc-msc-lirica-adriatique/ODI4MDk1ODEsY2FiXzE=",
       "lien_vol": "",
       "lien_source": ""
@@ -450,6 +450,29 @@
       "remarque": "Prix lu sur croisieres.fr : 639 €/pers. Croisière aller simple Istanbul → Le Pirée. Vol retour estimé. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-11991342-costa-croisieres-costa-pacifica-iles-grecques/ODY0MDUxMDgsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175269138417&searchMainProductTypeName=FLIGHT&utm_campaign=CDG-IST&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-10-30;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=CDG;to.iata=IST;dep=2027-10-30;collectionmethod=16&fareItineraryKey=5&segmentKey0=0,AF1390",
+      "lien_source": ""
+    },
+    {
+      "compagnie": "MSC Croisières",
+      "navire": "MSC Lirica",
+      "itineraire": "Ancône, Venise, Kotor, Mykonos, Syros, Ancône",
+      "port_depart": "Ancône (Italie)",
+      "date_depart": "2027-09-24",
+      "nuits": 7,
+      "cabine": "Intérieure (prix « dès »)",
+      "prix_croisiere_2pers": 1630,
+      "vol_inclus": true,
+      "prix_vols_2pers": 374,
+      "vol_detail": "Ryanair BVA 23/09 18:35 → Bologne BLQ 20:15, direct ; retour ITA Airways BLQ 01/10 11:00 → CDG 17:20, 1 escale (Bologne → Ancône ≈ 2 h en train) — total vols 374 € pour 2 (eDreams France, 2 adultes, relevé le 10/11/2026)",
+      "prix_total_2pers": 2124,
+      "tendance": "NOUVEAU",
+      "inclus": [
+        "Pension complète",
+        "Internet à bord"
+      ],
+      "remarque": "Prix lu sur croisieres.fr : 815 €/pers (date principale de la page). Itinéraire mixte (2 escales grecques sur 4 : Mykonos, Syros). Aucun vol Paris ↔ Ancône (AOI) sur eDreams : vols via Bologne (BLQ), puis ≈ 2 h de train jusqu'à Ancône. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-10843480-msc-msc-lirica-adriatique/ODI4MDk1ODEsY2FiXzE=",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175804555873&searchMainProductTypeName=FLIGHT&utm_campaign=BVA-BLQ&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-10-01;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=BVA;to.iata=BLQ;dep=2027-09-23;collectionmethod=16&fareItineraryKey=1&segmentKey0=0,FR3215&segmentKey1=0,AZ1314,AZ324&prime=true",
       "lien_source": ""
     },
     {
@@ -483,17 +506,17 @@
       "date_depart": "2027-09-17",
       "nuits": 7,
       "cabine": "Intérieure (prix « dès »)",
-      "prix_croisiere_2pers": 1562,
+      "prix_croisiere_2pers": 1568,
       "vol_inclus": true,
       "prix_vols_2pers": 466,
       "vol_detail": "Aegean Airlines CDG 16/09 11:05 → ATH 15:15 ; retour Sky Express ATH 24/09 19:00 → CDG 21:35, direct (466 €) — total vols 466 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
-      "prix_total_2pers": 2148,
-      "tendance": "▲ +112 € (+6 %) (croisière +112 €)",
+      "prix_total_2pers": 2154,
+      "tendance": "= +6 €",
       "inclus": [
         "Pension complète",
         "Activités à bord incluses"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 781 €/pers. Itinéraire mixte (Grèce + Turquie). Sur la page, choisir le départ du 17 sept. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 784 €/pers. Sur la page, choisir le départ du 17 sept. dans le calendrier. Itinéraire mixte (Grèce + Turquie). Sur la page, choisir le départ du 17 sept. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-11478500-royal-caribbean-rhapsody-of-the-seas-mediterranee/ODQ3NTM3MzMsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175268942805&searchMainProductTypeName=FLIGHT&utm_campaign=CDG-ATH&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-09-24;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=CDG;to.iata=ATH;dep=2027-09-16;collectionmethod=16&fareItineraryKey=42&segmentKey0=0,A3611&segmentKey1=0,GQ904",
       "lien_source": ""
@@ -511,7 +534,7 @@
       "prix_vols_2pers": 542,
       "vol_detail": "ITA Airways CDG 22/10 06:10 → BLQ 10:15 ; retour ITA Airways BLQ 30/10 06:30 → CDG 10:45, 1 escale (542 €) — total vols 542 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
       "prix_total_2pers": 2182,
-      "tendance": "= +14 €",
+      "tendance": "= +0 €",
       "inclus": [
         "Pension complète",
         "Activités à bord incluses"
@@ -585,7 +608,7 @@
         "Pension complète",
         "Internet à bord"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 865 €/pers. Sur la page, choisir le départ du 5 oct. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 865 €/pers. Sur la page, choisir le départ du 5 oct. dans le calendrier. Sur la page, choisir le départ du 5 oct. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-11986292-msc-msc-orchestra-iles-grecques/ODYzOTMxNTEsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175267446520&searchMainProductTypeName=FLIGHT&utm_campaign=CDG-ATH&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-10-12;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=CDG;to.iata=ATH;dep=2027-10-04;collectionmethod=16&fareItineraryKey=2&segmentKey0=0,A3611&segmentKey1=0,GQ900",
       "lien_source": ""
@@ -603,7 +626,7 @@
       "prix_vols_2pers": 442,
       "vol_detail": "Ryanair BVA 01/10 18:30 → BRI 20:50, direct ; retour ITA Airways BRI 09/10 19:25 → CDG 23:40, 1 escale (442 €) — total vols 442 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
       "prix_total_2pers": 2292,
-      "tendance": "▲ +40 € (+2 %) (croisière +40 €)",
+      "tendance": "= +0 €",
       "inclus": [
         "Pension complète",
         "Internet à bord"
@@ -661,46 +684,23 @@
     },
     {
       "compagnie": "Royal Caribbean",
-      "navire": "Explorer of the Seas",
-      "itineraire": "Civitavecchia (Rome), Naples, Messine, Santorin, Éphèse, Mykonos, Le Pirée (Athènes)",
-      "port_depart": "Civitavecchia – Rome (Italie)",
-      "date_depart": "2027-09-27",
-      "nuits": 7,
-      "cabine": "Intérieure (prix « dès »)",
-      "prix_croisiere_2pers": 1816,
-      "vol_inclus": true,
-      "prix_vols_2pers": 394,
-      "vol_detail": "Ryanair BVA 26/09 22:55 → Rome FCO 01:00 (+1), direct (150 €) ; Sky Express ATH 04/10 10:40 → CDG 13:15, direct (244 €) — total vols 394 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
-      "prix_total_2pers": 2330,
-      "tendance": "▲ +382 € (+20 %) (croisière +382 €)",
-      "inclus": [
-        "Pension complète",
-        "Activités à bord incluses"
-      ],
-      "remarque": "Prix lu sur croisieres.fr : 908 €/pers. Croisière aller simple Rome → Le Pirée, itinéraire mixte (Italie + 3 escales grecques + Turquie). Vol aller arrivant à 01:00 le 27/09 ; Fiumicino → Civitavecchia ≈ 1 h. Nuit d'hôtel la veille estimée 120 € (incluse). Vol retour sur eDreams : https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175269138928&searchMainProductTypeName=FLIGHT&utm_campaign=ATH-CDG&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=ATH;to.iata=CDG;dep=2027-10-04;collectionmethod=16&fareItineraryKey=2&segmentKey0=0,GQ900 . Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
-      "lien": "https://www.croisieres.fr/f-11478304-royal-caribbean-explorer-of-the-seas-mediterranee/ODQ3NTM1MDIsY2FiXzE=",
-      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175265486090&searchMainProductTypeName=FLIGHT&utm_campaign=BVA-FCO&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=BVA;to.iata=FCO;dep=2027-09-26;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,FR200",
-      "lien_source": ""
-    },
-    {
-      "compagnie": "Royal Caribbean",
       "navire": "Rhapsody of the Seas",
       "itineraire": "Le Pirée (Athènes), Santorin, Mykonos, Éphèse, Bodrum, Rhodes, Le Pirée",
       "port_depart": "Le Pirée (Athènes)",
       "date_depart": "2027-10-01",
       "nuits": 7,
       "cabine": "Intérieure (prix « dès »)",
-      "prix_croisiere_2pers": 1772,
+      "prix_croisiere_2pers": 1778,
       "vol_inclus": true,
       "prix_vols_2pers": 464,
       "vol_detail": "Aegean Airlines CDG 30/09 11:05 → ATH 15:15 ; retour Sky Express ATH 08/10 19:00 → CDG 21:35, direct (464 €) — total vols 464 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
-      "prix_total_2pers": 2356,
-      "tendance": "▲ +136 € (+6 %) (croisière +136 €)",
+      "prix_total_2pers": 2362,
+      "tendance": "= +6 €",
       "inclus": [
         "Pension complète",
         "Activités à bord incluses"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 886 €/pers. Sur la page, choisir le départ du 1er oct. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 889 €/pers. Sur la page, choisir le départ du 1 oct. dans le calendrier. Sur la page, choisir le départ du 1er oct. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-11478528-royal-caribbean-rhapsody-of-the-seas-iles-grecques/ODQ3NTM3OTYsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175261476151&searchMainProductTypeName=FLIGHT&utm_campaign=CDG-ATH&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-10-08;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=CDG;to.iata=ATH;dep=2027-09-30;collectionmethod=16&fareItineraryKey=11&segmentKey0=0,A3611&segmentKey1=0,GQ904",
       "lien_source": ""
@@ -771,7 +771,7 @@
         "Pourboires inclus",
         "Boissons aux repas"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 939 €/pers. Sur la page, choisir le départ du 11 oct. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 939 €/pers. Sur la page, choisir le départ du 11 oct. dans le calendrier. Sur la page, choisir le départ du 11 oct. dans le calendrier. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-7412330-celestyal-cruises-celestyal-discovery-mediterranee-et-ses-iles/ODg3NTM2MTEsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175257901630&searchMainProductTypeName=FLIGHT&utm_campaign=CDG-ATH&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-10-15;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=CDG;to.iata=ATH;dep=2027-10-10;collectionmethod=16&fareItineraryKey=21&segmentKey0=0,A3611&segmentKey1=0,GQ900",
       "lien_source": ""
@@ -784,17 +784,17 @@
       "date_depart": "2027-10-26",
       "nuits": 10,
       "cabine": "Intérieure (prix « dès »)",
-      "prix_croisiere_2pers": 1690,
+      "prix_croisiere_2pers": 1700,
       "vol_inclus": true,
       "prix_vols_2pers": 632,
       "vol_detail": "Vol eDreams sans lien retenu : aller Ryanair Beauvais → Rome direct le 25/10 ; le seul retour proposé le 05/11 (Rome → CDG, Eurowings) fait 1 escale et 8 h 50 de trajet ; 632 € pour 2 — total vols 632 € pour 2 (vol estimé)",
-      "prix_total_2pers": 2442,
-      "tendance": "= -4 €",
+      "prix_total_2pers": 2452,
+      "tendance": "= +10 €",
       "inclus": [
         "Pension complète",
         "Activités à bord incluses"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 845 €/pers. 4 escales grecques sur 6. Navire américain (ambiance anglophone). Retour 05/11 : vol long (8 h 50). Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 850 €/pers. 4 escales grecques sur 6. Navire américain (ambiance anglophone). Retour 05/11 : vol long (8 h 50). Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-13145524-carnival-carnival-miracle-mediterranee/OTAwNzAyMTQsY2FiXzE=",
       "lien_vol": "",
       "lien_source": ""
@@ -820,6 +820,29 @@
       "remarque": "Prix lu sur croisieres.fr : 945 €/pers. 5 escales grecques sur 6. Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-11606293-msc-msc-orchestra-iles-grecques/ODUxMTYxMDcsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175261091361&searchMainProductTypeName=FLIGHT&utm_campaign=CDG-BRI&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-10-02;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=CDG;to.iata=BRI;dep=2027-09-24;collectionmethod=16&fareItineraryKey=4&segmentKey0=0,AZ305,AZ1671&segmentKey1=0,AZ1608,AZ332",
+      "lien_source": ""
+    },
+    {
+      "compagnie": "Royal Caribbean",
+      "navire": "Explorer of the Seas",
+      "itineraire": "Civitavecchia (Rome), Naples, Messine, Santorin, Éphèse, Mykonos, Le Pirée (Athènes)",
+      "port_depart": "Civitavecchia – Rome (Italie)",
+      "date_depart": "2027-09-27",
+      "nuits": 7,
+      "cabine": "Intérieure (prix « dès »)",
+      "prix_croisiere_2pers": 2004,
+      "vol_inclus": true,
+      "prix_vols_2pers": 394,
+      "vol_detail": "Ryanair BVA 26/09 22:55 → Rome FCO 01:00 (+1), direct (150 €) ; Sky Express ATH 04/10 10:40 → CDG 13:15, direct (244 €) — total vols 394 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
+      "prix_total_2pers": 2518,
+      "tendance": "▲ +188 € (+8 %) (croisière +188 €)",
+      "inclus": [
+        "Pension complète",
+        "Activités à bord incluses"
+      ],
+      "remarque": "Prix lu sur croisieres.fr : 1002 €/pers. Croisière aller simple Rome → Le Pirée, itinéraire mixte (Italie + 3 escales grecques + Turquie). Vol aller arrivant à 01:00 le 27/09 ; Fiumicino → Civitavecchia ≈ 1 h. Nuit d'hôtel la veille estimée 120 € (incluse). Vol retour sur eDreams : https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175269138928&searchMainProductTypeName=FLIGHT&utm_campaign=ATH-CDG&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=ATH;to.iata=CDG;dep=2027-10-04;collectionmethod=16&fareItineraryKey=2&segmentKey0=0,GQ900 . Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "lien": "https://www.croisieres.fr/f-11478304-royal-caribbean-explorer-of-the-seas-mediterranee/ODQ3NTM1MDIsY2FiXzE=",
+      "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175265486090&searchMainProductTypeName=FLIGHT&utm_campaign=BVA-FCO&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/infants=0;children=0;adults=2;type=O;class=TOURIST;from.iata=BVA;to.iata=FCO;dep=2027-09-26;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,FR200",
       "lien_source": ""
     },
     {
@@ -877,17 +900,17 @@
       "date_depart": "2027-09-28",
       "nuits": 10,
       "cabine": "Intérieure (prix « dès »)",
-      "prix_croisiere_2pers": 2338,
+      "prix_croisiere_2pers": 2354,
       "vol_inclus": true,
       "prix_vols_2pers": 198,
       "vol_detail": "Ryanair BVA 27/09 14:00 → Rome FCO 16:05 ; retour Ryanair FCO 08/10 20:20 → BVA 22:35, direct (198 €) — total vols 198 € pour 2 (eDreams France, 2 adultes, relevé le 06/11/2026)",
-      "prix_total_2pers": 2656,
-      "tendance": "= -8 €",
+      "prix_total_2pers": 2672,
+      "tendance": "= +16 €",
       "inclus": [
         "Pension complète",
         "Activités à bord incluses"
       ],
-      "remarque": "Prix lu sur croisieres.fr : 1169 €/pers. 4 escales grecques sur 6. Navire américain (ambiance anglophone). Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
+      "remarque": "Prix lu sur croisieres.fr : 1177 €/pers. 4 escales grecques sur 6. Navire américain (ambiance anglophone). Nuit d'hôtel la veille estimée 120 € (incluse). Taxes portuaires : non précisées sur croisieres.fr, à vérifier avec « Calculez votre devis ».",
       "lien": "https://www.croisieres.fr/f-11408483-carnival-carnival-miracle-mediterranee/ODQ1MTA1MzIsY2FiXzE=",
       "lien_vol": "https://www.edreams.fr/travel/?locale=fr&mktportal=Claude-App&searchId=175263094256&searchMainProductTypeName=FLIGHT&utm_campaign=BVA-FCO&utm_content=meta-com&utm_medium=metasearch&utm_source=claude-app&utm_term=flight&deeplink=/results/ret=2027-10-08;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=BVA;to.iata=FCO;dep=2027-09-27;collectionmethod=16&fareItineraryKey=1&segmentKey0=0,FR166&segmentKey1=0,FR167",
       "lien_source": ""
@@ -1016,7 +1039,7 @@
       "prix_vols_2pers": 200,
       "vol_detail": "Ryanair BVA 17/09 09:15 → Trévise TSF 10:50 ; retour Ryanair TSF 25/09 08:15 → BVA 10:05, direct (Trévise → Marghera ≈ 40 min) (200 €) — total vols 200 € pour 2 (eDreams France, 2 adultes, relevé le 09/11/2026)",
       "prix_total_2pers": 2818,
-      "tendance": "NOUVEAU",
+      "tendance": "= +0 €",
       "inclus": [
         "Pension complète"
       ],
@@ -1107,7 +1130,7 @@
       "prix_vols_2pers": 392,
       "vol_detail": "Aegean Airlines CDG 09/10 11:05 → ATH 15:15 ; retour Sky Express ATH 17/10 10:40 → CDG 13:15, direct (392 €) — total vols 392 € pour 2 (eDreams France, 2 adultes, relevé le 09/11/2026)",
       "prix_total_2pers": 2932,
-      "tendance": "NOUVEAU",
+      "tendance": "= +0 €",
       "inclus": [
         "Pension complète",
         "Restaurants de spécialités inclus",
@@ -1133,7 +1156,7 @@
       "prix_vols_2pers": 320,
       "vol_detail": "Ryanair BVA 30/09 18:35 → Bologne BLQ 20:15, direct (126 €) ; retour Sky Express ATH 11/10 10:40 → CDG 13:15, direct (194 €) — total vols 320 € pour 2 (eDreams France, 2 adultes, relevé le 09/11/2026 ; Bologne → Ravenne ≈ 1 h 15)",
       "prix_total_2pers": 2966,
-      "tendance": "NOUVEAU",
+      "tendance": "= +0 €",
       "inclus": [
         "Pension complète"
       ],
